@@ -17,204 +17,201 @@
  
 规律:=========下面是原理然后是词根记忆然后是单词记忆分解, 词根记忆这个相对单词会大量减少. 这个没什么严格的逻辑,可以自己发现规律.只要方便自己的记忆就好. 一般的结构就是词根+废话+词根.
 
-	词根顺序互换:
-		ac:从corner来. 首先corner缩写成co然后co=ca 然后交换顺序 ac
-	元音互换和融合: aeiouy
-		bat:打beat,走路也是脚跟地面来回打.
-			battery: 火箭炮和电池的意思, 因为电池跟火炮一样是释放电能的.所以引申为电池了.
-			debate:争论
-			acrobat:杂技演员.acro表示尖
-	gckh 互换
-		ag:做,代理:act
-		acro:高因为ak表示尖 edge corner 这些都是原因加k或者c表示尖的概念.
-			acrobat:杂技演员
-			
-	dts 互换 因为老外这3个都不怎么发音.并且经常在末尾.所以就经常互换.
-		cess, ced, ceed 表示走. 拉丁里面表示走,离开 记忆可以看kid省略d就跟go很像了.
-			access, accessory 走的东西就是附属的配件. a+double表示强调.表示含义的隐身.
-			ancestor ,祖先 ant之前的. ces走 ant从front来.
-			concede, 一起走.让步
-			recede, 退去
-	cs  互换  老外也傻,两个弧度的跟一个弧度的也分不清.
-	uvw互换
-	mnlr互换
-	bpmfv互换
-	h不发音直接去掉
-		ive:从动词变成一个形容词.表示被动有什么属性.
-			allusive:allude暗指.allusive表示作品有影射的.allude这种前面a加重复字符的表示加强不表示含义.所以我们看lude的含义
-			         
-					 
-			  
-	具体
-		cap:本身就是单词帽子,表示头,表示抓.因为抓东西都抓头.
+词根顺序互换:
+	ac:从corner来. 首先corner缩写成co然后co=ca 然后交换顺序 ac
+元音互换和融合: aeiouy
+	bat:打beat,走路也是脚跟地面来回打.
+		battery: 火箭炮和电池的意思, 因为电池跟火炮一样是释放电能的.所以引申为电池了.
+		debate:争论
+		acrobat:杂技演员.acro表示尖
+gckh 互换
+	ag:做,代理:act
+	acro:高因为ak表示尖 edge corner 这些都是原因加k或者c表示尖的概念.
+		acrobat:杂技演员
+		
+dts 互换 因为老外这3个都不怎么发音.并且经常在末尾.所以就经常互换.
+	cess, ced, ceed 表示走. 拉丁里面表示走,离开 记忆可以看kid省略d就跟go很像了.
+		access, accessory 走的东西就是附属的配件. a+double表示强调.表示含义的隐身.
+		ancestor ,祖先 ant之前的. ces走 ant从front来.
+		concede, 一起走.让步
+		recede, 退去
+cs  互换  老外也傻,两个弧度的跟一个弧度的也分不清.
+uvw互换
+mnlr互换
+bpmfv互换
+h不发音直接去掉
+ive:从动词变成一个形容词.表示被动有什么属性.
+		allusive:allude暗指.allusive表示作品有影射的.allude这种前面a加重复字符的表示加强不表示含义.所以我们看lude的含义
 
-			accept:ac这里面没意义.cept就是拿.引申意义就是拿住一个观点.就是相信,接受,承认一个观点.
-				a double 表示引申义. cep表示抓. 所以就是相信
-			captive :ive是形容词后缀表示的.从have来的.表示被动有什么属性.为什么是被动,因为已经有了,不用主动去做.所以表示被动拥 		有,ive前面一定是一个动词.所以captive是被抓的人.俘虏.
-			receipt:收据   末尾t的都是little 表示小东西,收到东西后拿的小东西就是收据.
-			receive:收到.  re是向回,ceive是抓.抓了向回就是收到.获取东西的控制权
-			reception:接待会. 因为就是企业或者活动接待某人过来的意思.引申为接待的举办的仪式.
-			recipient:拿到也就是接受者的意思.
-			recipe :菜谱. 菜谱就是怎么抓材料的意思.
-			anticipate:预料 ant:front的意思.之前和对抗的意思.  ant=end 表示边界的意思所以就是前面. anti 从against来
-			occupy:占用 oc加强 因为 a+double表示加强,并且引申义.
-			cupboard:壁橱. board抓住墙.就是壁橱.
-			cabbage:卷心菜一堆头 age名词结尾
-			cape:海角.就是陆地的头.碰到海的头 披肩 sleeveless cloak, circular covering for the shoulders 包裹肩膀的披风.
-			capital:cap是主要的意思, 所以也表示一个人的钱, 资本. 资本主义.
-			     
+cap:本身就是单词帽子,表示头,表示抓.因为抓东西都抓头.
 
-		inter enter :between mid 也表示内部: in表示进入 ter表示多次 从three来的.多次进入就表示互相作用.也表示了中间的意思.
-			enter就是两个墙之间开一个门,然后你进去,就是之间的意思.所以进入就是之间的意思.
-		per:全的意思.还有前面, 主要的意思.从fore变化来.因为在前面就是主要的也表示全部.头抓到了就全抓到了.
-		re:后面,重复,对抗,重新
-			require:反复询问,后来命令式的反复问,就变成了需要的含义.
-		lude  表示不切合实际的.表示play.ludicrous表示不切合实际的.ridiculous也是荒谬的意思.是因为r和l可以互换.元音也互换. 	    表示play 跟后面的lay有点像.这个很难.尽量背下来. 记忆可以录的. 打游戏要录下来.
-			collusion:一起play碰撞.  因为s跟d互换. play是戏曲的原义.--运行.表示演的东西.不真实.
-			delude:骗. de表示坏.lude玩,运行.
-			elude:闪避      ex表示离开 e跟ex一样.
-			illude:in进入加lude 进入游戏,也是骗的意思.
-			illusion:进入游戏, 就是幻觉     lude==luse
-			illusory:幻觉的  ory:具有...性质.和地点.
-			interlude:插入事件,插曲
-			ludic:顽皮的. 因为lude就是play
-			prelude:前奏  pre是before的缩写.这种缩写方式就是首尾缩写方式.英文经常只写头和尾表示一个单词. b=p
-		kerd: 心 heart 变来 读音很近似.
-			accord 一致,相符合
-			cardinal:主要====英文的基督教色彩很重.从宗教来体会单词.
-			cordial:诚恳的
-		can:唱 从sing来.   c,s写混了.g扔了.
-			descant 高音. dis 分离 cant是歌曲普通部分的旋律
-			incentive: in 进入 cent唱歌. 唱进入人身体. 就是鼓励.刺激.
-			accent: 重音 口音.唱的都是重音和一个人本身的口音.
-		cid cis 切. 从cut来
-			decide
-			decisive
-			concise 简练的
-			precise 精确地. 卖切糕提前在家里精确的切好每一份.
-			suicide: sui自己 self来
-			accident
-			incident 事件 in 进入 cid掉落所以就是一个事件落下.
-		case: chance 偶然的
-			casual
-			casualty 伤亡 也是偶然
-		clin:倾斜  因为lean是倾斜
-			climate clim倾斜. 气候是太阳跟地球倾斜的角度.
-		hypo: under 向下的意思 po是poor向下
-			hypocrisy:虚伪. cris是区分, hypo是下面
+		accept:ac这里面没意义.cept就是拿.引申意义就是拿住一个观点.就是相信,接受,承认一个观点.
+			a double 表示引申义. cep表示抓. 所以就是相信
+		captive :ive是形容词后缀表示的.从have来的.表示被动有什么属性.为什么是被动,因为已经有了,不用主动去做.所以表示被动拥 		有,ive前面一定是一个动词.所以captive是被抓的人.俘虏.
+		receipt:收据   末尾t的都是little 表示小东西,收到东西后拿的小东西就是收据.
+		receive:收到.  re是向回,ceive是抓.抓了向回就是收到.获取东西的控制权
+		reception:接待会. 因为就是企业或者活动接待某人过来的意思.引申为接待的举办的仪式.
+		recipient:拿到也就是接受者的意思.
+		recipe :菜谱. 菜谱就是怎么抓材料的意思.
+		anticipate:预料 ant:front的意思.之前和对抗的意思.  ant=end 表示边界的意思所以就是前面. anti 从against来
+		occupy:占用 oc加强 因为 a+double表示加强,并且引申义.
+		cupboard:壁橱. board抓住墙.就是壁橱.
+		cabbage:卷心菜一堆头 age名词结尾
+		cape:海角.就是陆地的头.碰到海的头 披肩 sleeveless cloak, circular covering for the shoulders 包裹肩膀的披风.
+		capital:cap是主要的意思, 所以也表示一个人的钱, 资本. 资本主义.
+				
 
-		crei cri cre 区分 做: 跟se分离这个词根很像.因为c跟s很像. re跟e很像. create:就是创造.
-			concern: cern:是touch的意思
-			crime: 跟法律区分就是犯罪
-			critic: 区分就是下判断
-			criterion: 评判准则
-			decree:法令        向下做的区分判断
-			diacritic: 变音符  dia是 之间
-			concert:协同. con一起 cert是做
-			disconcert:不安
-			discreet:谨慎,聪明的. 可以区分出错误的.就是谨慎的聪明的.
-			endocrine:内部+创造, 内分泌
-			excrement:排泄
-			excrete:排泄	
-			garble:胡说八道 gar=cer 乱创造的就是胡说八道
-			hypocrisy:伪善 在下面做什么就是伪善.
-		leg: 收集 读写, 形状 因为collect 说和读:因为说一句话的本质就是"to gather words, to pick out words."
-			alexia:失读症
-			analects: ana :从on来 lect收集. 文选
-			logo: leg收集 商标就是各个细节收集起来的表示.
-			analogous: ana是一样的意思. 从again来 logos收集 表示一样的起源所以是相似的.
-			anthology:不同作家的选集. anther:花药 (花的雄蕊顶端产生花粉的部分);
-				small poems by various writers gathered together.
-			catalogue cata向下 从cut来 log收集
-			coil co 一起 il:log收集 coil 缠绕
-			colleague 一起收集, 同僚
-			college 大学 很多学科放在一起
-			Decalogue deca:ten因为t=d c=n log是说
-			delegate:代理 leg是跑腿
-			dialect: dia表示之间 lect说 说之间的东西就是方言
-			dialogue:谈话
-			diligence: 勤奋.  di分离 leg :收集 选择
-			         老天选中的人都是勤奋的人.
-			doxology :赞美上帝
-					dox:观点,拿到,光荣. 从take来.拿到的都是好东西光荣.
-			orthodox: orth正统的.  orth正统,正交的意思.
-			dyslexia:失读症
-			eclectic 折中主义
-				ex抽出 lec:收集
-				每一个都抽出一点就是折中主义.
-			eclogue:短诗 ec抽出 log:收集
-			elect 选举
-			epilogue 后记 epi 结尾从end log写
-			homologous 同性homo:same log表示形状
-			horology 钟表学 hour 时间
-			ideologue 意式形态 idea+logy
-			idiolect idio 自己从identity  个人说话特征
-			idiot  表示自己一个人,未受教育
-				lunatic 跟月亮有关,疯子,由于月亮变化周期发疯.
-			intelligence:智力.
-				inter之间
-			lectern 讲台
-			lection 经文
-			lector 大学老师
-			leech 水蛭. lec收集. 吸血就是水蛭
-			legacy lay放下
-			legal:法律就是规定的收集
-			legate:教皇世界. leg代理.
-			legend :联盟
-			legible:可以被阅读的.  able表示被动. playable 可以被玩的.
-			legion:罗马军团 因为征兵也是collect过程.
-			legislator leg:law  lator:带来. 从take来 立法者
-			legitimate :合法的.
-			lesson:朗读.课程
-			lexicon:字典.
-			ligneous:木头的. 因为ligni就是收集的意思,木头就是收集来的.
-			logarithm: a mathematical function used to shorten calculation 
-				log加算法. log是比例尺寸的意思.
-			logic:逻辑 log就是理由,注意.
-			loyal:忠诚的  合法的就是忠诚的.以前欧洲宗教就是法律
-			monologue:独角戏,独白 mono是独自.从small来. log是说
-			neglect: ne就是no leg就是抓取,收集. 不抓的就是忽视
-			neologism:新词汇 neo:new log:词
-			philology:文学研究 philo是喜欢, philip就是喜欢
-					feel love =philo
-			privilege: private law 特权.权限
-			prolegomenon:绪论
-			prologue:开场白
-			relegate:降级. re退回, leg权利,法律就是权利.
-			sacrilege:亵渎. saint神圣.读起来像上帝在笑
-				leg拿走.等于take. 拿走神圣的东西就是亵渎.
-			select:se分离lect收集. 收集
-			syllogism:推理 log是逻辑. syn是一起. 所以就是推理.
-			tautology:同义重复. taut=same
-			trilogy:三部曲
-	a- ① 加在单词或词根前面，表示"不，无，非"  因为un表示否定,跟a的读音很像.
-		acentric 无中心的（a+centric中心的） 
-		asocial 不好社交的（a+social好社交的） 
-		amoral 非道德性的（a+moral道德的；注意：immoral不道德的） moral道德很像manner礼貌
-		apolitical. 不关政治的（a+political政治的） 
-		anemia 反常的（a+nomal正常的+ous） 		
-		表示修饰:
-		asleep 睡着的（a+sleep睡觉） 
-		aside 在边上（a+side旁边） 
-		ahead 在前地（a+head头） 
-		alive 活的（a+live活） 
-		awash .泛滥的（a+wash冲洗） 
+inter enter :between mid 也表示内部: in表示进入 ter表示多次 从three来的.多次进入就表示互相作用.也表示了中间的意思.
+		enter就是两个墙之间开一个门,然后你进去,就是之间的意思.所以进入就是之间的意思.
+	per:全的意思.还有前面, 主要的意思.从fore变化来.因为在前面就是主要的也表示全部.头抓到了就全抓到了.
+	re:后面,重复,对抗,重新
+		require:反复询问,后来命令式的反复问,就变成了需要的含义.
+	lude  表示不切合实际的.表示play.ludicrous表示不切合实际的.ridiculous也是荒谬的意思.是因为r和l可以互换.元音也互换. 	    表示play 跟后面的lay有点像.这个很难.尽量背下来. 记忆可以录的. 打游戏要录下来.
+		collusion:一起play碰撞.  因为s跟d互换. play是戏曲的原义.--运行.表示演的东西.不真实.
+		delude:骗. de表示坏.lude玩,运行.
+		elude:闪避      ex表示离开 e跟ex一样.
+		illude:in进入加lude 进入游戏,也是骗的意思.
+		illusion:进入游戏, 就是幻觉     lude==luse
+		illusory:幻觉的  ory:具有...性质.和地点.
+		interlude:插入事件,插曲
+		ludic:顽皮的. 因为lude就是play
+		prelude:前奏  pre是before的缩写.这种缩写方式就是首尾缩写方式.英文经常只写头和尾表示一个单词. b=p
+	kerd: 心 heart 变来 读音很近似.
+		accord 一致,相符合
+		cardinal:主要====英文的基督教色彩很重.从宗教来体会单词.
+		cordial:诚恳的
+can:唱 从sing来.   c,s写混了.g扔了.
+		descant 高音. dis 分离 cant是歌曲普通部分的旋律
+		incentive: in 进入 cent唱歌. 唱进入人身体. 就是鼓励.刺激.
+		accent: 重音 口音.唱的都是重音和一个人本身的口音.
+cid cis 切. 从cut来
+		decide
+		decisive
+		concise 简练的
+		precise 精确地. 卖切糕提前在家里精确的切好每一份.
+		suicide: sui自己 self来
+		accident
+		incident 事件 in 进入 cid掉落所以就是一个事件落下.
+case: chance 偶然的
+		casual
+		casualty 伤亡 也是偶然
+clin:倾斜  因为lean是倾斜
+		climate clim倾斜. 气候是太阳跟地球倾斜的角度.
+hypo: under 向下的意思 po是poor向下
+		hypocrisy:虚伪. cris是区分, hypo是下面
 
-	ab-,abs-"" 反 从off变来.
-		abnormal 反常的（ab+normal正常的） 
-		abuse 滥用（ab+use用→用坏→滥用） 
-		absorb 吸收（ab+sorb吸收→吸收掉）  sorb从suck来的
-		absent 缺席的（ab+sent出现→没有出现→缺席的） se,es是存在 从is来.
-		abduct 诱拐（ab+duct引导→引走→诱拐）  duct=lead
-		abject 可怜的（ab+ject抛→抛掉→可怜的） 被扔掉的就是可怜的.
-		abstract 抽象的；心不在焉的（abs+tract拉→被拉开→心不
-			在焉） 一种是因为含义从实体中抽离了,所以表示抽象, 一种是注意力被拉开了,所以是心不在焉.
-			tract表示拉,从drag变来.
-		abstain 戒绝（abs+tain拿住→不再拿住→戒绝）  tain: tight来.表示抓住.
-		abscond 潜逃 ab离开 con是一起 离开不在一起就是潜逃
-		abscind 废除（abs+cind剪切→切掉→废除）  cind=cut 词根里面多个n很正常.这种复杂的词根变化都表示引申义.
-		abscise 切除（abs+cise剪→剪掉→切除） 
-		abstinence 节制；禁欲 不抓住,也就是放弃持有不良嗜好就是禁欲.
+crei cri cre 区分 做: 跟se分离这个词根很像.因为c跟s很像. re跟e很像. create:就是创造.
+		concern: cern:是touch的意思
+		crime: 跟法律区分就是犯罪
+		critic: 区分就是下判断
+		criterion: 评判准则
+		decree:法令        向下做的区分判断
+		diacritic: 变音符  dia是 之间
+		concert:协同. con一起 cert是做
+		disconcert:不安
+		discreet:谨慎,聪明的. 可以区分出错误的.就是谨慎的聪明的.
+		endocrine:内部+创造, 内分泌
+		excrement:排泄
+		excrete:排泄	
+		garble:胡说八道 gar=cer 乱创造的就是胡说八道
+		hypocrisy:伪善 在下面做什么就是伪善.
+leg: 收集 读写, 形状 因为collect 说和读:因为说一句话的本质就是"to gather words, to pick out words."
+		alexia:失读症
+		analects: ana :从on来 lect收集. 文选
+		logo: leg收集 商标就是各个细节收集起来的表示.
+		analogous: ana是一样的意思. 从again来 logos收集 表示一样的起源所以是相似的.
+		anthology:不同作家的选集. anther:花药 (花的雄蕊顶端产生花粉的部分);
+			small poems by various writers gathered together.
+		catalogue cata向下 从cut来 log收集
+		coil co 一起 il:log收集 coil 缠绕
+		colleague 一起收集, 同僚
+		college 大学 很多学科放在一起
+		Decalogue deca:ten因为t=d c=n log是说
+		delegate:代理 leg是跑腿
+		dialect: dia表示之间 lect说 说之间的东西就是方言
+		dialogue:谈话
+		diligence: 勤奋.  di分离 leg :收集 选择
+					老天选中的人都是勤奋的人.
+		doxology :赞美上帝
+				dox:观点,拿到,光荣. 从take来.拿到的都是好东西光荣.
+		orthodox: orth正统的.  orth正统,正交的意思.
+		dyslexia:失读症
+		eclectic 折中主义
+			ex抽出 lec:收集
+			每一个都抽出一点就是折中主义.
+		eclogue:短诗 ec抽出 log:收集
+		elect 选举
+		epilogue 后记 epi 结尾从end log写
+		homologous 同性homo:same log表示形状
+		horology 钟表学 hour 时间
+		ideologue 意式形态 idea+logy
+		idiolect idio 自己从identity  个人说话特征
+		idiot  表示自己一个人,未受教育
+			lunatic 跟月亮有关,疯子,由于月亮变化周期发疯.
+		intelligence:智力.
+			inter之间
+		lectern 讲台
+		lection 经文
+		lector 大学老师
+		leech 水蛭. lec收集. 吸血就是水蛭
+		legacy lay放下
+		legal:法律就是规定的收集
+		legate:教皇世界. leg代理.
+		legend :联盟
+		legible:可以被阅读的.  able表示被动. playable 可以被玩的.
+		legion:罗马军团 因为征兵也是collect过程.
+		legislator leg:law  lator:带来. 从take来 立法者
+		legitimate :合法的.
+		lesson:朗读.课程
+		lexicon:字典.
+		ligneous:木头的. 因为ligni就是收集的意思,木头就是收集来的.
+		logarithm: a mathematical function used to shorten calculation 
+			log加算法. log是比例尺寸的意思.
+		logic:逻辑 log就是理由,注意.
+		loyal:忠诚的  合法的就是忠诚的.以前欧洲宗教就是法律
+		monologue:独角戏,独白 mono是独自.从small来. log是说
+		neglect: ne就是no leg就是抓取,收集. 不抓的就是忽视
+		neologism:新词汇 neo:new log:词
+		philology:文学研究 philo是喜欢, philip就是喜欢
+			feel love =philo
+		privilege: private law 特权.权限
+		prolegomenon:绪论
+		prologue:开场白
+		relegate:降级. re退回, leg权利,法律就是权利.
+		sacrilege:亵渎. saint神圣.读起来像上帝在笑
+			leg拿走.等于take. 拿走神圣的东西就是亵渎.
+		select:se分离lect收集. 收集
+		syllogism:推理 log是逻辑. syn是一起. 所以就是推理.
+		tautology:同义重复. taut=same
+		trilogy:三部曲
+a- ① 加在单词或词根前面，表示"不，无，非"  因为un表示否定,跟a的读音很像.
+	acentric 无中心的（a+centric中心的） 
+	asocial 不好社交的（a+social好社交的） 
+	amoral 非道德性的（a+moral道德的；注意：immoral不道德的） moral道德很像manner礼貌
+	apolitical. 不关政治的（a+political政治的） 
+	anemia 反常的（a+nomal正常的+ous） 		
+	表示修饰:
+	asleep 睡着的（a+sleep睡觉） 
+	aside 在边上（a+side旁边） 
+	ahead 在前地（a+head头） 
+	alive 活的（a+live活） 
+	awash .泛滥的（a+wash冲洗） 
+
+ab-,abs-"" 反 从off变来.
+	abnormal 反常的（ab+normal正常的） 
+	abuse 滥用（ab+use用→用坏→滥用） 
+	absorb 吸收（ab+sorb吸收→吸收掉）  sorb从suck来的
+	absent 缺席的（ab+sent出现→没有出现→缺席的） se,es是存在 从is来.
+	abduct 诱拐（ab+duct引导→引走→诱拐）  duct=lead
+	abject 可怜的（ab+ject抛→抛掉→可怜的） 被扔掉的就是可怜的.
+	abstract 抽象的；心不在焉的（abs+tract拉→被拉开→心不
+		在焉） 一种是因为含义从实体中抽离了,所以表示抽象, 一种是注意力被拉开了,所以是心不在焉.
+		tract表示拉,从drag变来.
+	abstain 戒绝（abs+tain拿住→不再拿住→戒绝）  tain: tight来.表示抓住.
+	abscond 潜逃 ab离开 con是一起 离开不在一起就是潜逃
+	abscind 废除（abs+cind剪切→切掉→废除）  cind=cut 词根里面多个n很正常.这种复杂的词根变化都表示引申义.
+	abscise 切除（abs+cise剪→剪掉→切除） 
+	abstinence 节制；禁欲 不抓住,也就是放弃持有不良嗜好就是禁欲.
 
 
 
@@ -7604,7 +7601,7 @@ agon=struggle“”
 
 
 
-145 pact=fastened“”   
+145 pact=fastened“”   pact=fix
 	pact	 n 契约，公约（对双方加紧约束） 
 	compact	 a 压实的，压缩的（com全部+pact→全部压紧→
 		压缩的） 
@@ -7612,8 +7609,8 @@ agon=struggle“”
 		→影响力） 
 146 palp=feel“”   pulp=palp 冲击.拟声词
 	palpable	 a 摸得着的（palp+able能….的） 
-	palpitate	 v （心脏）悸动，快速跳动（patp+itate表动作→
-		摸得着的心跳） 
+	palpitate	 v （心脏）悸动，快速跳动（patp+itate表动
+		作→摸得着的心跳） 
 	palpus	 n 触须（palp+us） 
 147 par=get ready“”   
 	parade	 n  游行    （ 原意指部队训练场，引申为排队游
@@ -7622,9 +7619,9 @@ agon=struggle“”
 	repair	 v 修理（re再+pair→重新准备好→修理） 
 	apparatus	 n 仪器，设备（ap+par+atus表名词→准备
 		好用的东西→设备） 
-148 par=bring forth“”   
+148 par=bring forth“”   par=bear
 	parent	 n 父母（par+ent） 
-	primiparous	 a 初产的（primi最初+par+ous） 
+	primiparous	 a 初产的（primi最初+par+ous） prime=pre me基本都是无意义的后缀.
 	multiparous	 a 多产的，多胎的（multi多+par+ous→多
 		生产的） 
 	uniparous	 a 每胎生一子的（uni一个+par+ous→生出
@@ -7674,8 +7671,8 @@ agon=struggle“”
 	pisvator	 a 捕鱼者（pisc+tor人→鱼人→捕鱼者） 
 	piscivorous	 a 食鱼的（pisci+vor食+ous→食鱼的） 
 	piscicuiture	 n 养鱼业（pisci+culture养殖业） 
-	piscine	 a 鱼的（pisc+ine表示形容词，如：ursine熊的；
-	equine	马的） 
+	piscine	 a 鱼的（pisc+ine表示形容词，如： ursine 熊的；
+		equine	马的） 
 155 place=place“”   
 	displace	 v 移位；顶替（dis去掉+place→把放的东西去掉
 		→移位） 
@@ -7689,20 +7686,19 @@ agon=struggle“”
 	palaint	 n 悲叹 
 	complaint	 n 抱怨（com全部+plaint→对全部东西抱
 		怨） 
-157 plaud=clap hands “”   
+157 plaud=clap hands “”   plaud=clap
 	applaud	 v 拍手喝彩（ap+pland） 
 	applause	 n 鼓掌（applaud的名词） 
-	plausible	 a 可行的；有理的（plaus+ible→能鼓掌通过的→
-		可行的） 
+	plausible	 a 可行的；有理的（plaus+ible→能鼓掌通过的→可行的） 
 	plaudit	 n 称赞，赞美（plaud+it表名词，如：pundit权
 		威人士，专家） 
-158 pold=big noise“”   
+158 pold=big noise“”   拟声词表示沉重的走.声音很大.
 	plod	 v 拖重步子走路 
 	explode	 v 爆炸（ex出+plod+e→出来大声音→爆炸） 
 	explosion	 n 爆炸（explode的名词） 
 	implode	 v 内聚爆炸，猛然内缩（im内+plode→向内爆炸） 
 	implosion	 n 内暴 
-159 ploy=useinvlve“”   
+159 ploy=useinvlve“”   ploy=plec=fold表示折叠.使用.
 	employ	 v 雇佣；运用（em进入+ploy→进入用的状态→
 		雇佣） 
 	employment	 n 雇佣，就业（employ+ment） 
@@ -7713,19 +7709,18 @@ agon=struggle“”
 	plumb	 n 铅锤 
 	plumber	 n 管道工（plumb+er人，不少管道用铅做成） 
 	plummet	 v 突然下落（铅很重，所以下落很快） 
-	plimp	 a 丰满的，胖乎乎的（plump=plumb；铅锤是圆
+	plump	 a 丰满的，胖乎乎的（plump=plumb；铅锤是圆
 		的，所以是“丰满的”） 
 	plump	 v 倒下，坠下 
 161 porc=pig“”   
 	porcine	 a 猪的（pore+ine表形容词，如：piscine鱼的） 
-	porcupine	 n 豪猪（pore+upine[=spine刺]→有刺的
-		猪→豪猪） 
-	porpoise	 n 海豚（porp[=porc]+oise鱼类→像猪一样的鱼
-		→海豚） 
+	porcupine	 n 豪猪（pore+upine[=spine 刺]→有刺的
+		猪→豪猪） spine=pin剑,次
+	porpoise	 n 海豚（porp[=porc]+oise鱼类→像猪一样的鱼→海豚） 
 	pork	 n 猪肉 
 162 postposter=behind“”   
-	posterior	 a 以后的（post+erior表形容词，如：infeior低
-		下的） 
+	posterior	 a 以后的（post+erior表形容词，如：
+		infeior低下的） 
 	posterity	 n 后代，子孙（poster+ity→后面的人→后代） 
 	preposterous	 a 荒谬的，不合理的（pre前面
 		+poster+ous→前面后导致→荒谬的） 
@@ -7733,7 +7728,7 @@ agon=struggle“”
 	potable	 a 可饮用的（pot+able） 
 	potation	 n 畅饮，大喝（pot+ation） 
 	potion	 n 一副药水（pot+ion→喝下去的[药水]） 
-164poten=powerful“”   
+164 poten=powerful“”   poti=power
 	potent	 a 强有力的 
 	potential	 n 潜力（由“能力”引申为“潜力”） 
 	impotent	 a 无力的（im无+potent） 
@@ -7754,24 +7749,25 @@ agon=struggle“”
 	approximation	 n 大约，近似值 
 	proximity	 n 靠近，接近（proxim+ity） 
 168 pud=feel shame“”   pud羞耻. 吐的,感觉羞辱.
+	pud=foot 所以是羞辱的意思.用脚踩别人,羞辱别人.
 	repudiate	 v 拒绝，抛弃（re反+pud+iate→反过来让
 		对方羞耻→拒绝[别人]） 
 	impudicity	 n 不谦虚，无耻（in不+pud+icity→不羞耻
 		→无耻） 
 	impudent	 a 无礼的（im不+pud+ent表形容词→不羞
 		耻→无礼的） 
-169 putr=rotten“”   putr 扑街的.也就腐烂了.
+169 putr=rotten“”   putr =pour向下流就是腐烂了.
 	putrid	 a 腐烂的 
 	putrify	 v 腐烂（putr+efy[=ify表动词]） 
 	putrifaction	 n 腐烂，腐败（putrefy腐烂+ation表名词） 
 	putrescent	 a 正在腐败的（putr+escent开始….的→开
 		始腐烂的） 
 170 quaint=know“”   
-	quaint	 a 奇妙的，古怪的（人们想要知道怎么回事） 
+	quaint	 a 古雅的 
 	acquaint	 v 使了解，告知（acc使+quaint→使[人们]知道
 		→告知） 
 	acquaintance	 n 了解，熟悉（acquaint告知+ance表名词） 
-171 roge=mad“”   
+171 roge=mad“”   rage=rave 大嘴怒吼拟声词
 	rage	 n 狂怒 
 	enrage	 v 使发怒（en使+rage→使人疯狂→使发怒） 
 	outrage	 n 暴行，残暴（out出+rage→作出疯狂的事→残
@@ -7878,7 +7874,7 @@ agon=struggle“”
 	insightful	 a 有洞察力的 
 	oversight	 n 疏漏（over越过+sight→越过[漏洞]没看到；
 		参考，overlook疏忽）  60 
-189 som=body“”   som是身体 some是具体,所以表示身体
+189 som=body“”   som是身体 some是具体,所以表示身体,肉体.
 	somatic	 a 躯体的，肉体的（som+atic） 
 	chromosome	 n 染色体（chromo颜色+some身体） 
 	psychosomatic	 a 身心的，身心失调的（paycho心理
@@ -7887,12 +7883,12 @@ agon=struggle“”
 	assorted	 a 各种各样的（as+sort+ed→把各种东西放到一
 		起，如：assorted candy 什锦糖果） 
 	assortment	 n 分类，各种各样（assort把….分类+ment） 
-	consrt	 v 陪伴，结交（con共同+sort→同类相聚→结交） 
-191 spin=thorn“”   spin=spine长矛
+	consort	 v 陪伴，结交（con共同+sort→同类相聚→结交） 
+191 spin=thorn“”   spin=spine长矛 
 	spine	 n 刺；勇气；脊椎 
 	spiny	 a 多刺的；困难重重的 
 	porcupine	 n 豪猪（pore猪+upine[=spine刺]→有刺
-		的猪→豪猪） 
+		的猪→豪猪）  pork=pig
 192 splend=shine“”   sp+light
 	splendid	 a 辉煌的，灿烂的 
 	splendor	 n 光辉，光彩 
@@ -7903,7 +7899,7 @@ agon=struggle“”
 		止） 
 	install	 v 安装；就职（in进+stall→放进去→安装） 
 	installment	 n 安装；分期付款（install的名词） 
-194 stigm=mark“”   
+194 stigm=mark“”   stig=stick点. from sting 刺 拟声词
 	stigma	 n 污点；不名誉的事 
 	stigmetize	 v 玷污，诽谤（stigm污点+atize表示动作
 		→给[别人]污点→玷污） 
@@ -7957,14 +7953,14 @@ agon=struggle“”
 	technical	 a 技术上的 
 	technology	 n 技术（学）（techn+o+logy学科） 
 	polytechnic	 a 多种工艺的（poly多technic技术的） 
-		202temntemptscorn“”   
+202temntemptscorn“”   
 	contemn	 v 藐视，轻视（con共同＋temn→大家一起看不起
 		→藐视） 
 	contempt	 n 轻视（con共同+tempt→大家共同看不起
 		→轻视） 
 	contemptible	 a 可轻视的；下贱（contempt+ible） 
 	contemptuous	 a 瞧不起人的（contempt+uous） 
-203terr=frighten“”   
+203terr=frighten“”   terr=fear
 	terrible	 a 可怕的（terr+ible） 
 	terrify	 v 恐吓（terr+ify） 
 	terrific	 a 极好的（terr+iflc带来→带来可怕→好到了让人
@@ -7989,12 +7985,13 @@ agon=struggle“”
 	touch	 v 摸，接触 
 	retouch	 v 再摸（画）润色（重新用画笔接触画面→润色） 
 	untouchable	 a 不可接触的（un+touch+able） 
-207 trench=cut“”   
+207 trench=cut“”   trench=trans穿过去.
+	战壕就是穿过去的一条沟壑.
 	trench	 n 壕沟（被雨水切割出来的沟） 
-	entrench	 v 用壕沟防护，确立…地位（en在…里面+trench→
-		在壕沟里面） 
+	entrench	 v 用壕沟防护，确立…地位（en在…里面
+		+trench→在壕沟里面） 
 	trenchant	 a 一针见血的（trench+ant→象刀切进去一
-		样） 
+		样） 穿过去的,就是一针见血的.
 208 trop=turn“”   
 	trope	 n 转义；比喻（转出来的意义） 
 	tropic	 n 回归线（太阳回转的地方） 
@@ -8034,11 +8031,13 @@ agon=struggle“”
 		刷） 
 	typology	 n 类型学（typ+o+log学科+y→研究模式的学科） 
 213 wrinur=urine“”   
+	urine=under rain 尿尿
 	urine	 n 尿 
 	urinate	 v 排尿（urin+ate） 
 	urinal	 n 尿壶；小便池 
 	urology	 n 泌尿学（ur+o+log学科+y） 
 214 vapor=steam“”   
+	vapor=water 所以是蒸汽.
 	vapor	 n 蒸汽 
 	vaporize	 v 汽化（vapor+ize） 
 	evaporate	 v 蒸发（e出+vapor+ate→以蒸汽的方式出
@@ -8054,7 +8053,7 @@ agon=struggle“”
 	ventilate	 v 通风（vent+ilate表动词） 
 	ventilation	 n 通风，换风 
 217 vestig=footprint‟track“”   
-	vestige	 n 痕迹；残余 
+	vestige	 n 痕迹；残余      vest=vision看见的就是痕迹.
 	investigate	 v 调查，侦察（in进入+vestig+ate→根据
 		踪迹调查→调查） 
 218 vibr=swing“”   
@@ -8089,12 +8088,12 @@ agon=struggle“”
 	devotion	 n 献身；虔诚（devote+ion） 
 	devotional	 a 虔诚的（devotion献身+al） 
 	ote	 v 投票（投票前需要发誓以示诚实） 
-223 ware=watch”“   
+223 ware=watch”“   ware=aware
 	wary	 a 警惕的；谨慎的 
 	aware	 a 警惕的，戒备的（a+ware） 
 	unaware	 a 不知道的（un+aware意识到） 
 	awareness	 n 意识，知觉（aware+ness） 
-224 zeal=ardor”“   
+224 zeal=ardor”“   zeal=jeal嫉妒就是心情急切的意思.
 	zeal	 n 热心，一心一意 
 	zealot	 n 热心者，狂热者（zeal+ot表示人，如；hekot
 		奴隶） 
