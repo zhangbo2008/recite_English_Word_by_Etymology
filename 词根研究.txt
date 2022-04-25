@@ -17,10 +17,15 @@
  
 规律:=========下面是原理然后是词根记忆然后是单词记忆分解, 词根记忆这个相对单词会大量减少. 这个没什么严格的逻辑,可以自己发现规律.只要方便自己的记忆就好. 一般的结构就是词根+废话+词根.
 
-词根顺序互换:
-	ac:从corner来. 首先corner缩写成co然后co=ca 然后交换顺序 ac
-元音互换和融合: aeiouy
-	bat:打beat,走路也是脚跟地面来回打.
+
+
+
+建议:多看,多理解,反过来就会对词根有更新的理解拆分.
+直接从每一个单词进行拆分入手.
+
+词根顺序互换: 词根记忆就是可以根据自己的理解.多种方式来记忆.方法不是目的.记住就行.
+ac尖:从corner来. 首先corner缩写成co然后co=ca 然后交换顺序 ac
+bat:打beat,走路也是脚跟地面来回打.
 		battery: 火箭炮和电池的意思, 因为电池跟火炮一样是释放电能的.所以引申为电池了.
 		debate:争论
 		acrobat:杂技演员.acro表示尖
@@ -29,10 +34,10 @@ gckh 互换
 	acro:高因为ak表示尖 edge corner 这些都是原因加k或者c表示尖的概念.
 		acrobat:杂技演员
 		
-dts 互换 因为老外这3个都不怎么发音.并且经常在末尾.所以就经常互换.
-	cess, ced, ceed 表示走. 拉丁里面表示走,离开 记忆可以看kid省略d就跟go很像了.
-		access, accessory 走的东西就是附属的配件. a+double表示强调.表示含义的隐身.
-		ancestor ,祖先 ant之前的. ces走 ant从front来.
+cess, ced, ceed 表示走. 拉丁里面表示走,离开 记忆可以看kid省略d就跟go很像了.
+		access, accessory 走的东西就是附属的配件. a		
+			+double表示强调.表示含义的隐身.
+		ancestor ,祖先 ant之前的. ces走 ant从front来.后缀
 		concede, 一起走.让步
 		recede, 退去
 cs  互换  老外也傻,两个弧度的跟一个弧度的也分不清.
@@ -45,20 +50,21 @@ ive:从动词变成一个形容词.表示被动有什么属性.
 
 cap:本身就是单词帽子,表示头,表示抓.因为抓东西都抓头.
 
-		accept:ac这里面没意义.cept就是拿.引申意义就是拿住一个观点.就是相信,接受,承认一个观点.
-			a double 表示引申义. cep表示抓. 所以就是相信
-		captive :ive是形容词后缀表示的.从have来的.表示被动有什么属性.为什么是被动,因为已经有了,不用主动去做.所以表示被动拥 		有,ive前面一定是一个动词.所以captive是被抓的人.俘虏.
-		receipt:收据   末尾t的都是little 表示小东西,收到东西后拿的小东西就是收据.
-		receive:收到.  re是向回,ceive是抓.抓了向回就是收到.获取东西的控制权
-		reception:接待会. 因为就是企业或者活动接待某人过来的意思.引申为接待的举办的仪式.
-		recipient:拿到也就是接受者的意思.
-		recipe :菜谱. 菜谱就是怎么抓材料的意思.
-		anticipate:预料 ant:front的意思.之前和对抗的意思.  ant=end 表示边界的意思所以就是前面. anti 从against来
-		occupy:占用 oc加强 因为 a+double表示加强,并且引申义.
-		cupboard:壁橱. board抓住墙.就是壁橱.
-		cabbage:卷心菜一堆头 age名词结尾
-		cape:海角.就是陆地的头.碰到海的头 披肩 sleeveless cloak, circular covering for the shoulders 包裹肩膀的披风.
-		capital:cap是主要的意思, 所以也表示一个人的钱, 资本. 资本主义.
+	accept:ac这里面没意义.cept就是拿.引申意义就是拿住一个观点.就是相信,接受,承认一个观点.
+		a double 表示引申义. cep表示抓. 所以就是相信
+	captive :ive是形容词后缀表示的.从have来的.表示被动有什么属性.为什么是被动,因为已经有了,不用主动去做.所以表示被动拥 		有,ive前面一定是一个动词.所以captive是被抓的人.俘虏.
+	receipt:收据   末尾t的都是little 表示小东西,收到东西后拿的小东西就是收据.
+	receive:收到.  re是向回,ceive是抓.抓了向回就是收到.获取东西的控制权
+	reception:接待会. 因为就是企业或者活动接待某人过来的意思.引申为接待的举办的仪式. 接机.
+	recipient:拿到也就是接受者的意思.
+	recipe :菜谱. 菜谱就是怎么抓材料的意思.
+	anticipate:预料 ant:front的意思.之前和对抗的意思.  
+		anti 从against来
+	occupy:占用 oc加强 因为 a+double表示加强,并且引申义.
+	cupboard:壁橱. board抓住墙.就是壁橱.
+	cabbage:卷心菜一堆头 age名词结尾
+	cape:海角.就是陆地的头.碰到海的头 
+	capital:cap是主要的意思, 所以也表示一个人的钱, 资本. 资本主义.
 				
 
 inter enter :between mid 也表示内部: in表示进入 ter表示多次 从three来的.多次进入就表示互相作用.也表示了中间的意思.
@@ -76,11 +82,11 @@ inter enter :between mid 也表示内部: in表示进入 ter表示多次 从thre
 		interlude:插入事件,插曲
 		ludic:顽皮的. 因为lude就是play
 		prelude:前奏  pre是before的缩写.这种缩写方式就是首尾缩写方式.英文经常只写头和尾表示一个单词. b=p
-	kerd: 心 heart 变来 读音很近似.
+	kerd: 心 heart 变来 读音很近似.   k = h =c 变化非常常见, 因为读音很像.
 		accord 一致,相符合
 		cardinal:主要====英文的基督教色彩很重.从宗教来体会单词.
 		cordial:诚恳的
-can:唱 从sing来.   c,s写混了.g扔了.
+can:唱 从sing来.   c,s写混了.g扔了. can=chant
 		descant 高音. dis 分离 cant是歌曲普通部分的旋律
 		incentive: in 进入 cent唱歌. 唱进入人身体. 就是鼓励.刺激.
 		accent: 重音 口音.唱的都是重音和一个人本身的口音.
@@ -95,102 +101,104 @@ cid cis 切. 从cut来
 case: chance 偶然的
 		casual
 		casualty 伤亡 也是偶然
-clin:倾斜  因为lean是倾斜
+clin:倾斜  因为lean是倾斜 clif
 		climate clim倾斜. 气候是太阳跟地球倾斜的角度.
 hypo: under 向下的意思 po是poor向下
 		hypocrisy:虚伪. cris是区分, hypo是下面
+		hyper 高 hypo 下面
 
-crei cri cre 区分 做: 跟se分离这个词根很像.因为c跟s很像. re跟e很像. create:就是创造.
-		concern: cern:是touch的意思
-		crime: 跟法律区分就是犯罪
-		critic: 区分就是下判断
-		criterion: 评判准则
-		decree:法令        向下做的区分判断
-		diacritic: 变音符  dia是 之间
-		concert:协同. con一起 cert是做
-		disconcert:不安
-		discreet:谨慎,聪明的. 可以区分出错误的.就是谨慎的聪明的.
-		endocrine:内部+创造, 内分泌
-		excrement:排泄
-		excrete:排泄	
-		garble:胡说八道 gar=cer 乱创造的就是胡说八道
-		hypocrisy:伪善 在下面做什么就是伪善.
+crei cri cre 区分  cri=discriminate 
+	concern: cern:是touch的意思
+	crime: 跟法律区分就是犯罪
+	critic: 区分就是下判断
+	criterion: 评判准则
+	decree:法令        向下做的区分判断
+	diacritic: 变音符  dia是 之间
+	concert:协同. con一起 cert是做
+	disconcert:不安
+	discreet:谨慎,聪明的. 可以区分出错误的.就是谨慎的聪明的.
+	endocrine:内部+创造, 内分泌
+	excrement:排泄
+	excrete:排泄	
+	garble:胡说八道 gar=cer 乱创造的就是胡说八道
+	hypocrisy:伪善 在下面做什么就是伪善.
 leg: 收集 读写, 形状 因为collect 说和读:因为说一句话的本质就是"to gather words, to pick out words."
-		alexia:失读症
-		analects: ana :从on来 lect收集. 文选
-		logo: leg收集 商标就是各个细节收集起来的表示.
-		analogous: ana是一样的意思. 从again来 logos收集 表示一样的起源所以是相似的.
-		anthology:不同作家的选集. anther:花药 (花的雄蕊顶端产生花粉的部分);
-			small poems by various writers gathered together.
-		catalogue cata向下 从cut来 log收集
-		coil co 一起 il:log收集 coil 缠绕
-		colleague 一起收集, 同僚
-		college 大学 很多学科放在一起
-		Decalogue deca:ten因为t=d c=n log是说
-		delegate:代理 leg是跑腿
-		dialect: dia表示之间 lect说 说之间的东西就是方言
-		dialogue:谈话
-		diligence: 勤奋.  di分离 leg :收集 选择
-					老天选中的人都是勤奋的人.
-		doxology :赞美上帝
-				dox:观点,拿到,光荣. 从take来.拿到的都是好东西光荣.
-		orthodox: orth正统的.  orth正统,正交的意思.
-		dyslexia:失读症
-		eclectic 折中主义
-			ex抽出 lec:收集
-			每一个都抽出一点就是折中主义.
-		eclogue:短诗 ec抽出 log:收集
-		elect 选举
-		epilogue 后记 epi 结尾从end log写
-		homologous 同性homo:same log表示形状
-		horology 钟表学 hour 时间
-		ideologue 意式形态 idea+logy
-		idiolect idio 自己从identity  个人说话特征
-		idiot  表示自己一个人,未受教育
-			lunatic 跟月亮有关,疯子,由于月亮变化周期发疯.
-		intelligence:智力.
-			inter之间
-		lectern 讲台
-		lection 经文
-		lector 大学老师
-		leech 水蛭. lec收集. 吸血就是水蛭
-		legacy lay放下
-		legal:法律就是规定的收集
-		legate:教皇世界. leg代理.
-		legend :联盟
-		legible:可以被阅读的.  able表示被动. playable 可以被玩的.
-		legion:罗马军团 因为征兵也是collect过程.
-		legislator leg:law  lator:带来. 从take来 立法者
-		legitimate :合法的.
-		lesson:朗读.课程
-		lexicon:字典.
-		ligneous:木头的. 因为ligni就是收集的意思,木头就是收集来的.
-		logarithm: a mathematical function used to shorten calculation 
-			log加算法. log是比例尺寸的意思.
-		logic:逻辑 log就是理由,注意.
-		loyal:忠诚的  合法的就是忠诚的.以前欧洲宗教就是法律
-		monologue:独角戏,独白 mono是独自.从small来. log是说
-		neglect: ne就是no leg就是抓取,收集. 不抓的就是忽视
-		neologism:新词汇 neo:new log:词
-		philology:文学研究 philo是喜欢, philip就是喜欢
-			feel love =philo
-		privilege: private law 特权.权限
-		prolegomenon:绪论
-		prologue:开场白
-		relegate:降级. re退回, leg权利,法律就是权利.
-		sacrilege:亵渎. saint神圣.读起来像上帝在笑
-			leg拿走.等于take. 拿走神圣的东西就是亵渎.
-		select:se分离lect收集. 收集
-		syllogism:推理 log是逻辑. syn是一起. 所以就是推理.
-		tautology:同义重复. taut=same
-		trilogy:三部曲
+	alexia:失读症
+	analects: ana :从on来 lect收集. 文选
+	logo: leg收集 商标就是各个细节收集起来的表示.
+	analogous: ana是一样的意思. 从again来 logos收集 表示一样的起源所以是相似的.
+	anthology:不同作家的选集. anther:花药 (花的雄蕊顶端产生花粉的部分);
+		small poems by various writers gathered together.
+	catalogue cata向下 从cut来 log收集
+	coil co 一起 il:log收集 coil 缠绕
+	colleague 一起收集, 同僚
+	college 大学 很多学科放在一起
+	Decalogue deca:ten因为t=d c=n log是说
+	delegate:代理 leg是说话, 帮你说话的人就是代理.
+	dialect: dia表示之间 lect说 说之间的东西就是方言
+	dialogue:谈话
+	diligence: 勤奋.  di分离 leg :收集 选择
+		老天选中的人都是勤奋的人. 天道酬勤 
+	doxology :赞美上帝
+		dox=take
+	orthodox: orth正统的.  orth正统,正交的意思.
+		orth=all straight
+	dyslexia:失读症
+	eclectic 折中主义
+		ex抽出 lec:收集
+		每一个都抽出一点就是折中主义.
+	eclogue:短诗 ec抽出 log:收集
+	elect 选举
+	epilogue 后记 epi 结尾从end log写
+	homologous 同性homo:same log表示形状
+	horology 钟表学 hour 时间 log学科:因为在以前学者才经常说话.
+	ideologue 意式形态 idea+logy
+	idiolect idio 自己从identity  个人说话特征
+	idiot  表示自己一个人,未受教育
+		lunatic 跟月亮有关,疯子,由于月亮变化周期发疯.
+	intelligence:智力.
+		inter之间
+	lectern 讲台
+	lection 经文
+	lector 大学老师
+	leech 水蛭. lec收集. 吸血就是水蛭
+	legacy lay放下
+	legal:法律就是规定的收集
+	legate:教皇世界. leg代理.
+	legend :联盟
+	legible:可以被阅读的.  able表示被动. playable 可以被玩的.
+	legion:罗马军团 因为征兵也是collect过程.
+	legislator leg:law  lator:带来. 从take来 立法者
+	legitimate :合法的.
+	lesson:朗读.课程
+	lexicon:字典.
+	ligneous:木头的. 因为ligni就是收集的意思,木头就是收集来的.
+	logarithm: a mathematical function used to shorten calculation 
+		log加算法. log是比例尺寸的意思.
+	logic:逻辑 log就是理由,注意.
+	loyal:忠诚的  合法的就是忠诚的.以前欧洲宗教就是法律
+	monologue:独角戏,独白 mono是独自.从small来. log是说
+	neglect: ne就是no leg就是抓取,收集. 不抓的就是忽视
+	neologism:新词汇 neo:new log:词
+	philology:文学研究 philo是喜欢, philip就是喜欢
+		feel love =philo
+	privilege: private law 特权.权限 leg=law
+	prolegomenon:绪论
+	prologue:开场白
+	relegate:降级. re退回, leg权利,法律就是权利.
+	sacrilege:亵渎. saint神圣.读起来像上帝在笑
+		leg拿走.等于take. 拿走神圣的东西就是亵渎.
+	select:se分离lect收集. 收集
+	syllogism:推理 log是逻辑. syn是一起. 所以就是推理.
+	tautology:同义重复. taut=same
+	trilogy:三部曲
 a- ① 加在单词或词根前面，表示"不，无，非"  因为un表示否定,跟a的读音很像.
 	acentric 无中心的（a+centric中心的） 
 	asocial 不好社交的（a+social好社交的） 
 	amoral 非道德性的（a+moral道德的；注意：immoral不道德的） moral道德很像manner礼貌
 	apolitical. 不关政治的（a+political政治的） 
 	anemia 反常的（a+nomal正常的+ous） 		
-	表示修饰:
+表示修饰:a=无含义
 	asleep 睡着的（a+sleep睡觉） 
 	aside 在边上（a+side旁边） 
 	ahead 在前地（a+head头） 
@@ -203,19 +211,18 @@ ab-,abs-"" 反 从off变来.
 	absorb 吸收（ab+sorb吸收→吸收掉）  sorb从suck来的
 	absent 缺席的（ab+sent出现→没有出现→缺席的） se,es是存在 从is来.
 	abduct 诱拐（ab+duct引导→引走→诱拐）  duct=lead
-	abject 可怜的（ab+ject抛→抛掉→可怜的） 被扔掉的就是可怜的.
+		duct=do ac 引道.
+	abject 可怜的（ab+ject抛→抛掉→可怜的） 被扔掉的就是可怜
+		的.ject拟声词
 	abstract 抽象的；心不在焉的（abs+tract拉→被拉开→心不
 		在焉） 一种是因为含义从实体中抽离了,所以表示抽象, 一种是注意力被拉开了,所以是心不在焉.
-		tract表示拉,从drag变来.
+		tract表示拉,从drag变来. tractor
 	abstain 戒绝（abs+tain拿住→不再拿住→戒绝）  tain: tight来.表示抓住.
 	abscond 潜逃 ab离开 con是一起 离开不在一起就是潜逃
-	abscind 废除（abs+cind剪切→切掉→废除）  cind=cut 词根里面多个n很正常.这种复杂的词根变化都表示引申义.
+	abscind 废除（abs+cind剪切→切掉→废除）  cind=cut 词根里面多个n很正常.这种复杂的词根变化都表示引申义. 
+		你会经常发现词根中的n和m 无意义. climb 
 	abscise 切除（abs+cise剪→剪掉→切除） 
 	abstinence 节制；禁欲 不抓住,也就是放弃持有不良嗜好就是禁欲.
-
-
-
-
 a+double表示加强.
 	accelerate 加速 cele=speed c跟s像 ,确实不好记忆这个词根.
 	accentuate （ac+cent唱歌→一再唱出→强调）  cent=sing
@@ -224,16 +231,20 @@ a+double表示加强.
 	accustom 使习惯（ac+custom习俗→习惯习俗）  a=ad=to 从to变来的.词根这种交换顺序很常见.
 	addict 上瘾，入迷（ad+dict说→一再说起→对……入迷） 
 	additive 上瘾的（addict的形容词） 
-	adduce  引证，举例（ad+duce引导→一再引导→举例说明）  adduce...for... 引用xxx为了证明xxx
-	affable 亲切的（af+fable说话→不断可以说话→亲切） fable=phone说话
+	adduce  引证，举例（ad+duce引导→一再引导→举例说明） 
+		adduce...for... 引用xxx为了证明xxx
+		duce引导: do+ac 刺激去做就是引导.
+	affable 亲切的（af+fable说话→不断可以说话→亲切） 
+		fable=phone说话
 	afford 买得起（af+ford=forward 把一个事情推进.contribute什么. 所以就到了买得起.负担什么
 	affirm 肯定（af+firm坚定→肯定） 
 	aggression 侵略，进攻（ag+gress走+ion→一再往前走→进
-		攻） 
+		攻） gress=grade 走
 	aggrandize 扩大（ag+grand大→一再大→扩大[权力]等） 
 	aggravate 恶化（ag+grav重+ate病加重） 
 	announce 通告（an+nounce通知→通告）  nounce喊,通知. make known缩写.
 	appal 使震惊（ap+pal白色→[脸]变白→受惊） 
+		谐音法: 泡白了. pale 白色
 	applause 鼓掌（ap+pease赞扬→一再赞扬→鼓掌）  clap拍手 词根顺序变了很正常
 	appreciate 欣赏 price
 	appoint 指定，任命 （ap+point指→指定）  point从prick,点.指定的意思.通过一个点指定. prick刺,从fight来.
@@ -243,7 +254,7 @@ a+double表示加强.
 	assault 进攻（as+saul跳→跳起来→进攻） sal:嗖的一下跳起来.所以表示heap的含义.
 	assiduous 勤奋的（as+sid坐+uous→一再坐着[学习] →勤奋） 
 	assist 帮助 （as+sist站→站过来→帮助）  sist=stand 也是音变的.
-	associate 联合，结合 soc跟随的意思.等于sequ就是序列的意思.互相跟随就是联合
+	associate 联合，结合 social
 	assimilate 吸收；同化（as+simil相同+ate→成为相同→同化） 
 	assure 肯定；确信（as+sure确定→一不再确定→肯定） 
 	attach 附上；依恋（at+tach接角→接触上→附上） 
@@ -260,16 +271,14 @@ a+double表示加强.
 	adjoin 贴近；毗连（ad+join参加→参加在一起→贴近） 
 	administrate 管理；执行（ad+ministr部长+ate→做部长→
 			管理） mini就是少,低级作为辅佐.之前是牧师的辅佐,现在表示当官的.
-	admire 羡慕（ad+mire惊奇→惊喜；羡慕）  mire=smile表示惊奇,感到wonder .词根少一个前面s正常.
-		smile是微笑. laugh是大笑,嘲笑.所以smile是真心的干到惊奇.
+	admire 羡慕（ad+mire惊奇→惊喜；羡慕）  mire=smile表示 惊奇,感到wonder .词根少一个前面s正常.smile是微笑. laugh是大笑,嘲笑.所以smile是真心的干到惊奇.
 	adumbrate 预示 雨伞就是阴影, 阴影就是预示的意思.预示的东西在阴影中都是.
 	adjust调整（ad+just+正确→弄正确→调整）  
 	adventure 冒险（ad+venture冒险）  went就是走
 	admonish 告诫，警告 mon是想起, 从mind来.让人想到.就是警告. ad是强调的意思.不是让人正常的想,是强制让人想,所以是警告.
 	advent来临，来到（ad+vent来→来到） 
 amphi-"" 
-	amphibia 两栖动物（amphi+bi生命+an→两个生命→两栖动               amphi=ambi来表示两个, 后面的bi表示bio生命.
-		物） 
+	amphibia 两栖动物（amphi+bi)
 	amphicar 水陆两用车（amphi+car车→两用车）  
 an-表示无从un来
 	anarchism 无政府主义（an+arch统治+ism→无统治→无政府
@@ -277,7 +286,7 @@ an-表示无从un来
 	anharmonic 不和谐的(an+hamonic和谐的→不和谐的) 
 	anechoic 无回声的（an+echo回声+ic→无回声的） 
 	anonymous 匿名的（an+onym名字+ous→匿名的） onym=name on是na交换顺序得到的.
-7ana-"" 
+7ana-"" 相同. again
 	analogy类比；类似 log是长度 ana是一样.again的缩写.也是against的缩写
 	analogous类似的（analogy的形容词） 
 	analysis 分析（ana+lysis分开→分开来→分析）  lys=loose 松开,打开什么
@@ -285,14 +294,14 @@ an-表示无从un来
 	antedate 提前写日期；先于，早于（ante+date日期→提前写
 		日期）  ant是front缩写.fr丢了
 	anterior 前面的（ante+erior[…的] →前面的） 
-	antecedent（aute+ced走+ent→走在前面的[事] →前事）   先行的. ced=foot 走
+	antecedent （aute+ced走+ent→走在前面的[事] →前事）   先行的. ced=foot 走
 9anti-"" 
 	antiwar 反战的（anti+war战争）  ant是against的缩写
-	antipathy 反感（anti+pathy感情） 
-	antithesis对立；反论（anti+thesis论文；观点） 
+	antipathy 反感（anti+pathy感情） path=feel
+	antithesis 对立；反论（anti+thesis论文；观点） 
 	antibacterial 抗菌的（anti+bacterial细菌的）  bacteria 是细菌,因为他发现时候是杆壮的. bar就是棍子
 	antibody抗体（anti+body身体） 
-10-anthropo 表示人. 没有起源.  读起来answer paul 回答保罗的.就是人.人才能回答.
+10-anthropo 表示人. 没有起源.  读起来answer paul 回答保罗的.就是人.人才能回答. andrew
 	anthropology[anthropo人类，-logy…学者]人类学 
 	anthropologist[anthropo人类，-logist…学者]人类学者 
 	anthropogeography[anthropo人类， gegoraphy 地理学]人
@@ -330,7 +339,7 @@ dem(o) 因为demo来源于Academos, Academos（阿卡德莫斯）是柏拉图在
 	计]人口统计学 
 	demographic[见上，-ic…的]人口统计的 
 	epidemic[epi-在…之间，dem人民，-ic…的；"流行于人民之
-		中的" →]流行的，传染的；流行病，时疫             epi表示在什么上面,在什么后面,在什么周围.
+		中的" →]流行的，传染的；流行病，时疫             epi表示在什么上面,在什么后面,在什么周围.epi=about
 	epidemiology[见上，- io-连接字母，-logy…学]流行病学 
 	epidemiologist[见上，-logist…学者]流行病学者 
 	epidemiological[见上，-logical…学的]流行病学的 
@@ -340,9 +349,6 @@ andr(o)
 	androgyne [andro男人，gyn女人]具有男妇两性的人，阴阳人  andrew就是强壮的意思.就是从这个词根来的. gyne从queen来.
 		还是音变规律. g跟q ne跟een变. y 跟u 元音随便变.
 	androgynism[andro男，gyn女，-ism表性质状态]半男半女 
-
-
-
 vir 
 	virile[vir男，ile形容词字尾，…的]男的，男性的，男子的，有
 		男子气概的，有男性生殖力的 vir像wolf表示男人一样.没啥词源就是强记.
@@ -354,6 +360,8 @@ vir
 1gyn(o);   gynec(o)  gyn=qween   g,q变化,然后后面y跟ee互化.
 	gynecology[gyneco妇女，-logy…学]妇科学，妇科  logy是学的意思.因为log是读,写.
 	gynecologist[见上，-ist人]妇科医生 
+		"one who does or makes," "doctrine or custom"
+		scientist 科学家
 	gynecian[gynec妇女，-ian…的]妇女的，妇人的 
 2fem;      femin 
 	female[fem女，妇女]女性的，妇女的；女子 
@@ -364,12 +372,12 @@ vir
 	feminism[femin女，-ism主义]男女平等主义；[-ism表示行
 	为]争取女权运动 
 	femme妇女；妻子 
-12be- 
+12 be- 
 	① 构成动词，表示"使…成为"  be就是 是的含义.把xxx变成动词.
-	beguile 欺骗（be+guile欺骗）  guile欺骗 = wile 诡计.  wick巫师. 这个很难
+	beguile 欺骗（be+guile欺骗）  guile欺骗 = wile 诡计.  wick巫师. 这个很难 谐音:鬼了.
 	belie 掩盖（be+lie说慌） 
 	bequeath 遗留给，传下（be+queath要求→要求给某人→遗
-		留给）  queath=quest就是说的意思.  读起来就是快死.快死的时候要做遗言遗物.
+		留给）  queath=quoth 说
 	besiege 围攻(be+siege包围→包围起来)  siege=seat 坐下. 军队坐下.军队什么时候坐下,是包围别人的时候才能坐下.等着别人死.
 		siege  g跟k跟t很像.随便换.
 	beware 注意（be+ware注意）  ware=watch
@@ -377,22 +385,23 @@ vir
 	befool欺骗（be+fool笨蛋→使人成笨蛋→欺骗别人） 
 	befall 降临；发生（be+fall掉下→掉下来→发生） 
 	belittle 小看(be+little小→小看人) 
-	bewilder 使…迷惑（be+wilder迷惑）  因为野外就是人们不熟悉的地方,所以让人迷惑.
+	bewilder 使…迷惑（be+ wilder 迷惑）  因为野外就是人们不熟悉的地方,所以让人迷惑. wilder=wood表示树林林.
 	② 构成一些介词  
 	before在前面（be+fore前面） 
 	beneath 在下面（be+neath下面）  neath=down 像倒着写.
 13bene- "" 好的意思 从benefit来记忆.        fec=fet 做 因为put 像. p跟f像. put就是放,就是做xxx
-	benewolent 好意的（bene+vol意愿+ent→好意的） 
+	benewolent 好意的（bene+vol意愿+ent→好意的） will
 	benefaction好事；恩惠（bene+fact做+ion→好事） 
 	benefit 好处，利益（bene+fit做→做事后的好处→利益） 
 	benediction 祝福（bene+dict说+ion→说好话） 
 	beneficent 仁慈的，善行的（bene+fic做+ent→做好事的） 
-14bi-"" 
+
+14bi-"" 因为b是字母表第二个.
 	biweekly双周刊（bi+week星期+ly→两星期） 
 	bilingual 双语种的（bi+lingu语言+al→双语的）  lingual=tongue   l,t也混淆写起来就很像.
 	biennial 两年一次的（bi+enn年+ial→两年〔一次〕的）  ann=enn 都表示年,没原因. 记忆的话可以从拼音nian跟ann很像来记忆.
 	biannual一年两次的（bi+ann[年]+ual→一年两次的） 
-15by-"" 
+15 by-"" bi=around后缀变过来的.
 	byproduct 副产品（by+product产品） by就是第二的,就是次要的意思.by也是附近的意思.
 	byroad辅路（by+road路） 
 	byway小道（by+way小路） 
@@ -410,11 +419,10 @@ vir
 	circumvent回避（circum+vent走→绕圈走→回避） 
 17co-"" 
 	Cooperation 合作(co+operation操作→共同操作→合作) 
-	Coagulate 凝结 co 一起 ag是做,流动,驱动. 向一起流动.就是凝固了.
-	Coalesce 联合；合作 co + al 表示增大,变强. 可以看做tall 的缩写.
-		类似的有adult 其中ul就是al变来的. abolish ol=al表示继续增长,前面ab表示禁止.所以是废除的意思.
+	Coagulate 凝结 =collect
+	Coalesce 联合；合作 co + al  al=hall变大
 	Coexist 共存(co+exist存在) 
-	Cohere 附着；粘着(co+here粘→粘在一起) 
+	Cohere 附着；粘着(co+here粘→粘在一起) 谐音法: [和]稀泥 所以here 是黏的意思.
 	Coincide 一致，符合，巧合(co+in进+cide掉下→共同掉进来
 		→巧合) in+cid表示切,掉落的意思.所以incide表示一起落下的就是巧合,一致.
 	Coordinate协调：同等的(co+ordin顺序+ate→顺序一样→同
@@ -424,7 +432,6 @@ vir
 	collocate 并置，排列(col+loc地方+ate→放在同一地方→排列) 
 	co lingual 用同一种语言的(col+lingu语言+al→同语言的) 
 	collapse 倒塌(col+lapse滑倒→全部滑倒→倒塌)  lapse=slip 就是slip这个单词的重写而已. 表示滑到. slip=slide表示滑倒
-
 	collate 校对(col+late放→放到一起→校对)  late=放置 记忆的话可以用lay放置来记忆.
 		late词根不好记.
 	collateral 并列的，并行的(col+later边→al→周边的→并列的) later是边的意思.没有词源.可以从side来理解.写起来很像.只是s跟l换了.
@@ -444,10 +451,10 @@ vir
 	corroborate证实(cor+robor力量+ate→用力量→证实) 
 19com-,con-"" 
 	combine 联合，结合com + bind
-	compassion 同情 passion是忍受,感受的意思.没有词源. 怕神.神经上怕就是忍受,感受的意思.
+	compassion 同情 passion是忍受,感受的意思.没有词源. 怕神.神经上怕就是忍受,感受的意思. path=feel
 	compatriot 同胞 patr:father 因为p,f写起来很像.都是一个竖,右边加点东西.
 	commend 赞扬；推荐(com+mend信任；命令→大家信任→
-		赞扬；参考； recommend )  mend=hand 表示命令.手表示控制表示命令. com表示加强. 表示命令别人. 所以是赞扬,委托.
+		赞扬；参考； recommend )  mend=hand 表示命令.手表示控制表示命令. com表示加强. 表示命令别人. 所以是赞扬,委托.mend=mand=hand
 		你让别人去做什么,肯定是看好那个人,所以就有了赞扬和推荐的含义.
 	commemorate纪念(com+memor记住+ate→大家一起记住
 		→纪念) 
@@ -457,8 +464,8 @@ vir
 	compact 紧密的；合同(com+pact压紧→全部压紧→紧密的) pact变牢固.
 	comfort安慰(com+fort加强→[精神]强大→安慰) 
 	commodious 宽敞的(com+mod动+ious→共同动→有动的地
-	 	方→宽敞的)  mod med 从mode来表示方法. mode模式,方式,方法. com是加强. 所以是有方法的,所以是方便的.引申为房子宽敞.
-	compete 比赛(com+pete追求→一起追→比赛) 
+	 	方→宽敞的) mod 表示合理.模式的合理的.
+	compete 比赛(com+pete追求→一起追→比赛) pet=feather=飞
 		pet是飞,冲的意思.可以模拟记忆宠物喜欢飞,喜欢冲. 词源feather 羽毛的意思.所以表示飞,冲. fp互换,然后取收尾缩写即可.
 		这个词根很有用.pen钢笔,以前就是用羽毛做的.
 		appetite食欲. a double表示去,和加强, pet表示冲.对于吃的冲过去.就是食欲了.
@@ -476,7 +483,7 @@ vir
 	Confluence 汇流（con+flu流＋ence→共同流→汇流） 
 	Congregate 集 合的，聚集的（con+greg集合＋ate→集合到
 		一起→聚集的）  gre=gather的缩写.
-	Console安慰（con+sole安慰→一起安慰） 
+	Console 安慰（con+sole灵魂) 
 20.contra-""  从contrary这个单词反向记忆词根最方便.
 	contrary 相反的（contra+ary→相反的） 
 	contradict 反驳；矛盾（contra+dict说→反着说→反驳） 
@@ -505,17 +512,23 @@ vir
 	delimit 划定界限（de+limit限定→加强限定） 
 	depict 描绘（de+pict图画→成为图画→描绘） 
 	design 设计；计划（de+sign做标志→设计） 
-	definition 定义；清晰（de+fin界限＋ition→划出界限→定义）  
-23.di- 
+	definition 定义；清晰（de+fin界限＋ition→划出界限→定义）   fin=finish边界
+23.di-  dipart所以是2的意思
 	① 表示"两个，双" 
-	dichromatic 两色的（di+chrom颜色+atic→两色的） chrom=color 还是rm互换原则.
-	dioxide 二氧化物（di+ox氧＋ide→二氧化物）  oxygen缩写成ox了.
-	dilemma 进退两难（di+lemma争论→二种争论→进退两难） lemma是引理.假定
+	dichromatic 两色的（di+chrom颜色+atic→两色的） 
+		chrom=color 还是rm互换原则.
+	dioxide 二氧化物（di+ox氧＋ide→二氧化物）  oxygen缩写成ox了. ide=的
+	dilemma 进退两难（di+lemma争论→二种争论→进退两难） 
+		lemma=tain 两头都抓,所以进退两难
 	dichotomize 分成二，对分（dicho=di+tom切割+ize→切成
 		二分） tom,ton=cut切割.不好记.表示切,分离. 自己找个记忆方法:咚一下切下去.
 	② 表示"使…变成，分开，离开" 
-	dilate 膨胀，扩大（di+late放→分开放→扩大） lat长,宽度 latitude 维度. lat=long 收尾,t=g
+	dilate 膨胀，扩大（di+late放→分开放→扩大） lat长,宽度
+		late=扩大. late=wide 变宽. 不好记
+	latitude 维度. lat=long 收尾,t=g
+		是水平的圈.经度 longtitude
 	dilute 冲淡，稀释(di+lute冲洗→冲洗开→冲淡) 
+		flow=lute
 	digest 消化；文摘（di+gest带→带下去→消化→经过消化后的
 		精华→文摘） ge=ag 表示运动.move.在大肠里面消化吃的就是分解运动.
 	diminish 减少；消失（di+mini小+ish→变小，减少） 
@@ -544,20 +557,21 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	maternity [见上，－ity名词字尾]母性的，母性的 
 	metropolis [metro母，polis城市；"母城" →首城，最大的城]
 		大城市，主要城市，大都会，首府  polis=fortress 城堡引申为城市了. p=f l=r
-24.dia-""  dia是之间between的意思.因为di是2的意思.2个从着就是之间的意思. 和通过的意思.
+24.dia-"" 表示2个相对. between
 	dialogue 对话（dia+logue话→对着说话） 
 	diameter直径（dia+meter测量→对着测量〔圆〕直径） 
 	diaphanous 透明的；精致的（dia+phan显示＋ous→对面显
-		示〔影子〕→透明的）  pha是光亮shine,显示.从photo照片来记忆, pha另一个意思就是上面的phone表示说话.
-	dialectic 辩证法（dia+lect讲+ic→二人对讲→辩证法） 对着讲就辩证了.让大家都发言.
+		示〔影子〕→透明的）  pha是光亮shine,显示.从photo照片来记忆!!, pha另一个意思就是上面的phone表示说话.
+	dialectic 辩证法（dia+lect讲+ic→二人对讲→辩证法） 对着讲就辩证了.让大家都发言. 
+		语言,说话的本质就是收集一些词汇发射出去.
 	diagnosis诊断（dia+gnosis知道→穿过〔皮肤〕知道→诊断） 
 	diagram图表（dia+gram→交叉对着画→图表） 
 25.di-""  dif=different缩写不同.
 	differ 不同（dif+fer带来→带来不同→不同） 
 	difference 不同（differ的名词） 
-	diffident 自卑的（dit+fid相信＋ent→不相信〔自己〕→自卑的）  fid=faith信任
-	diffuse 散布的，散开的（dif+fusc流→分开流→散布的） fuse=flow u=w 后面加个se有点怪,不好记.
-		feu=fuse=pour
+	diffident 自卑的（dit+fid相信＋ent→不相信〔自己〕→自卑的）  fid=faith信任 di+confidence
+	diffuse 散布的，散开的（dif+fusc流→分开流→散布的） 
+		fuse=pour
 	difficult 困难的（dif+fic做＋ult→不好做→困难的） 
 	difform 不同形式的；不规则的（dif+form形状→形状不同） 
 26.dis- 
@@ -568,8 +582,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	disproof 反证，反驳（dis+proof证实→不证实→反证） 
 	discourage  使失去勇气（dis+courage勇气） 
 	disarm  解除武装（dis+arm武装→去掉武装） 
-	dispel  驱除，消除（dis+pel推→推开→驱除） pel=push 记住是推.
-	dispassionate 平心静气的（dis+passionate有激情的） 
+	dispel  驱除，消除（dis+pel推→推开→驱除） pel=push 记住是推. 拟声词 .磅的一下推出去.
+	dispassionate 平心静气的（dis+passionate有激情的）
+		passion=path=suffer情感 
 	discover 发现（dis+cover盖→把盖揭开→发现） 
 	dismay 沮丧（dis+may能够→不能做事→沮丧；参考：五月能
 		种粮食，所以叫May）  may:有能力,may单词就是有能力的意思.表示没有希望的意思.因为没有能力.
@@ -582,6 +597,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	disburse 支付，支出（dis+burse钱包→从钱包中分出→支出）   bruse表示钱. 等于purse
 	discard 丢弃，抛弃 card卡片. 玩卡片就是扔卡片. 所以是discard
 	discuss 讨论（dis+cuss敲打→把〔问题〕分开敲→讨论） 
+		cuss=crush冲击
 27.dys-"" 
 	dyspepsia 消化不良（dys+peps消化；胃＋ia病→消化不好） peps=cook  p=c 表示烹饪,消化.
 	dystrophy 营养不良（dys+trophy营养）  tropic就是营养的意思. tract就是抽出来的东西,从食物中抽取营养.
@@ -602,16 +618,17 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	enroll 注册，记入名册（en+roll名单） roll是卷轴
 	encage 关入笼中（en+cage笼子） 
 	enchain 束缚（en+chain锁链） 
-	"…" 
 	empower 授权（em+power权力） 
 	embitter 使痛苦（em+bitter痛苦的） bitter=bit咬 所以表示苦,痛苦
 	embody 体现（em+body身体→〔精神〕进入身体→体现）  灵魂进入身体就是体现
-	embellish 装饰（em+bell美好＋ish→进入美好→装饰） belle=beauty
+	embellish 装饰（em+bell美好＋ish→进入美好→装饰） 
+		belle=bene=beauty
 	emboss 使凸出（em+boss凸出→使凸出） boss=button凸出来的意思
 	emphreal 天空的（em+pyre火+al→进入火、太阳→天空的） in fire=天空
 	enact 制定；颁布（en+act行动→进入行动→颁布〔法令〕） 
 	enchant 使迷醉（en+chant咒语→被咒语所迷醉） 
 	encompass 包围，围绕（en+compass包围） 
+		compass包围. com一起pass走.全走一圈就是包围.
 	endanger 使危险（en+danger危险） 
 	encourage 鼓励（en+courage勇气→使人进入勇气→鼓励） 
 	enlighten 启发，开导（en+ligh光＋en→给人光明→启发） 
@@ -623,7 +640,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	episode 一段经历，片段（epi+sode路→在路上→一段经历；
 		片段） sode:道路,旅程=way
 	epitome 梗概，缩影 tom:cut 一圈切掉了.就是缩影.
-31.eu -"" 就是well的缩写.
+31.eu -"" 就是well的缩写. 谐音法: 优
 	eulogize 赞美（eu+log说＋ize→说好话） 
 	euphemism 委婉的词语（eu+phem讲话＋ism→讲好话） 
 	euphonious 声音优美的（eu+phon声音＋ious→声音好听的） 
@@ -634,25 +651,29 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 32.ex- 
 	exclude排外（ex+clude关闭→关出去→排外） 
 	expel赶出，逐出（ex+pel推→推出去→逐出） 
+		dispel 驱鬼
 	expose暴露（ex+plse放→放出去→暴露） 
-	exalt使升高（ex+alt高→高出来→升高） 
+	exalt使升高（ex+alt高→高出来→升高） alt=tall
 	extract抽出，拔出（ex+tract拉→拉出→拔出） 
 	excise切除(ex+cise切→切出→切除) 
 	exceed超过，超出（ex+ceed走→走出→超出） 
 	exhale 呼气（ex+hale气→出气→呼气）  hale拟声词,表示呼气.
 	exhume 掘出，挖出（ex+hume土→出土→挖出）  human就是这个词根,人类就是土里面来的.
-	expurgate 净化；删去（ex+purg冲洗＋ate→冲洗出来→净化）  pure纯洁 是clear的重写
+	expurgate 净化；删去  pure纯洁 是clear的重写
 	ex-wife 前妻（ex前+wife妻子） 
 	ex-president 前任总统（ex前+president总统） 
-33.exo-"" 
+33.exo-"" ex+o
 	exotic 来自异国的（exo+tic→从外面来的） tic是形容词后缀.
 	exoteric 外界的，外面的（exo+teric→外面的） 
 	exocentric 外向的，离心的（exo+centric中心的） 
+		centripetal 向心的.
 	exosphere  外大气层（exo+sphere球；大气层） 
-	exodus 大批移出（exo+odus大批量） odu=way
+	exodus 大批移出（exo+odus大批量） odu=走 =ride
 	exothermic 放出热量的（exo+therm热＋ic→热外出→放热） 
+		therm=warm   thermometer
 34.extra-"" 
 	extracurriculum 课外的(extra+curriculum课程表) 
+		cur=run=car
 	extraordinary 格外的（extra+ordinary变通的→超出普通） 
 	extrasolar 太阳系以外的（extra+solar太阳的） 
 	extraneous 外来的（extra+aneous…的→从外面来的）neous:形容词后缀. 
@@ -660,18 +681,19 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	extrovert 性格外向的（extra+vert转→〔性格〕向外转→外向） 
 	extrapolate 推断（extra+polate放→放到〔事实〕外→推断）  pel是刺的意思. 用pulse脉搏来记忆,
 		反复冲击的意思. 碰碰的拟声词.
-	extraviolet 紫外线的（extra+violet紫色的） 像violent暴力要用紫药水.所以是紫色的意思.
+	extraviolet 紫外线的（extra+violet紫色的） 谐音: 紫罗兰 罗兰就是vilot    罗 vi 兰 lo
 35.fore-"" before的缩写.这种是后缀省略的模式.
 	forestall 预先阻止（fore+stall阻止）  
-	forebode 预兆；凶兆（fore+bode兆头→预兆） bode使别人知道 bid投标就是宣告什么事情的意思.
+		stall=stand
+	forebode 预兆；凶兆（fore+bode兆头→预兆）bode=body显现
 	forefather 前人，祖先（fore+father父亲；祖先） 
 	forearm 前臂（fore+amr胳膊） 
 	forecast 预料（fore+cast扔→预先扔下→预料） 
 	foreshadow 预示，暗示（fore+shadow影子→影子预先来） 
-36.hetero-“”  h不发音, 所以等于etero=other 末尾的o也是随便加的一个后缀
+36.hetero-“” hetero=other 的重排序 (重排序一般都是辅音一个提前)
 	heterosexual 异性的（hetero+sexual性别的） 
-	heterodoxy 异教，异端（hetero+doxy观点→观点不同） doc:说 说不同的,就是异教.因为英语是中世纪产物, 
-		那时候最能叨叨说话的就是宗教.
+	heterodoxy 异教，异端（hetero+doxy观点→观点不同） doc:
+		那时候最能叨叨说话的就是宗教. dox就是宗教
 	heterogeneous	异类的，不同的（hetero+gen产生＋eous→
 		产生不同的） gene:盖亚所以是生的意思. 生的不同,就表示不同类别的东西.
 37.homo-“” 从same来. h不发音,s也省略后面一样的.
@@ -686,11 +708,10 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	hyperactive 活动过度的（hyper+active活动的） 
 	hypersensitive 过敏的（hyper+sensitive敏感的） 
 	hypercritical 吹毛求疵的（hyper+critical批评的） 
-	hyperbole 夸张法（hyper+bole抛→活抛得高→夸张） bole从ball来表示抛出的意思,扔出的意思.所以向高抛
-		就是对什么事情夸张的修辞.
+	hyperbole 夸张法（hyper+bole抛→活抛得高→夸张） bole从ball来表示抛出的意思,扔出的意思.所以向高抛就是对什么事情夸张的修辞.
 	hypertension 过度紧张；高血压（hyper+tension紧张）  
 39.hypo-“” under变过来.p=d u=y o是低音,发音低. er是卷舌所以发音高.
-	hypodermic 皮下的（hypo+derm皮＋ic） derm:皮 没什么记忆方法. derm的摸,所以是皮肤.只有皮肤才会摸
+	hypodermic 皮下的（hypo+derm皮＋ic） derm:皮 谐音法:得膜 所以就是皮.
 	hypothesis 假说，假设（hypo+thesis论文→还不是正式的理
 		论→假说） thesis论文,长得像theory
 	hypomnesia 记忆力减退（hypo+mnes记忆+ia→记忆变得不
@@ -709,7 +730,8 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	irresolute 无决断力的（ir+resolute果断的） re+solve 加强解决.所以是果断的.
 	irreproachable 无可指责的（ir+reproachable能被指责的）  reproach  re+approach 反含义的靠近.就是
 		靠近为了指责.
-	irrefutable 无可反驳的（ir+refutable可反驳的）  refute=refuse=反驳 re返回,fute=beat
+	irrefutable 无可反驳的（ir+refutable可反驳的）  	
+		refute=refuse=反驳 re返回,fute=beat 挺难!!!!!!
 	irresistible 不可抗拒的（ir+resistible可抗拒的） sis=stand 这种缩写是收尾缩写. 结尾d=s中间保留一
 		个i
 	irrevocable 不可取消的（ir+revocable可取消的；来自：revoke
@@ -722,7 +744,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	irruption 闯入，冲入（ir+rupt断＋ion→打断〔别人〕→闯入） rupt=break的后面缩写.
 	irradiate 使明亮，生辉（ir+radi发光+ate→发光→生辉） radi发光,因为radius是半径就是辐射的意思. 
 		redius没有起源.一种说法是像root根一样辐射.
-	irritate 激怒；刺激 rite=乱动,搅动 从run来.前面加ir表示否定,所以就是负面意义上的刺激.
+	irritate 激怒；刺激 rite=run
 41.im-,in-  表示否定
 	impossible不可能的（im+plssible可能的） 
 	immoral不道德的（im+moral道德的） 
@@ -738,12 +760,13 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	injustice不公正（in+justice公正） 
 	incorrigible 积习难改的（in+corrigible可改正的） 不能correct的
 	inconstant多变的，无常的（in+constant稳定的） 
+		instant 速溶. stant是停留的意思.
 	indifferent冷漠的（in+different不同的→同与不同的“事不关
 	已” →冷漠的） 
 	innocuous 无害的（in+noc毒害+ous→无害的） nok=死=dead缩写. d跟n很像. stdkmn经常互换.因为都不怎么
 		发音.
 	inimitable 无可比拟的（in+imit模仿+able→不能模仿的） imi是复制模仿的意思,从image来.图像就是真实
-		事物的一种复制下来.
+		事物的一种复制下来.) imitable谐音法: 一米table , 一米一米的模仿.
 	insubordinate 不服从的，反抗的（in+subordnate 服从的） 
 	下面的im表示强调了.因为这时的词根从in进入来的.不再是上面un来了.所以需要自己特殊情况特殊记忆.
 	imprison监禁（im+prison监狱） 
@@ -751,12 +774,12 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	imperil 处于危险中（im+peril危险） per=冒险.从for来.向前就是冒险.
 	impulse 冲动（im+pulse跳动→冲动） pel拟声词,推东西,碰撞,碰的一声.
 	implicit 含蓄的（im+plic重叠+it→进入重叠→含蓄的说） plec=fold折叠起来.等于fold这个词重拍一下字母
-		顺序 p=f c=d e=o
+		顺序 p=f c=d e=o   pf读起来就非常像.
 	impersonate扮演，模仿（im+person人+ate→进入别人→
 		扮演别人） 
 	inborn天生的（in+born出生的） 
 	inaugurate 举行就职典礼（in+augur预兆，开始+ate→进入
-		开始→就职；参考：augury 预兆） augury预告. 因为aug是放大.把以后的消息放大就是预言.
+		开始→就职；参考：augury 预兆） augury预告. aug=avi鸟 古人都用鸟做预测.
 	incentive 激励（in+cent唱歌+ive→把精神唱进去→激励） 
 	incorporate合并，并入（in+corpor团体+ate→成为团体） 
 	inflame使燃烧；激怒（in+flame火焰） 
@@ -777,7 +800,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	introduce 引入，介绍（intro+duce引→引进） 
 	introspect 内省，反省（intro+pect看→向内看→内省） spec=see 表示看
 	introvert 内向的人,不喜欢交往的（intro+vert转→向内转→内向） 
-	intromit 插入，干预（intro+mit放→放进去→插入）  it=go 是went的缩写.
+	intromit 插入，干预（intro+mit放→放进去→插入）  it=go 是went的缩写.  m这个经常是词根中间的连接符,无意义,直接忽略就行. 因为m是闭口音.没啥含义.
 	introversible 可向内翻的（intro+vers转＋able→能向内转的） 
 44.macro-表示“宏伟，大” max就是大,所以mac就是大.
 	macroworld 宏观世界（macro+world世界） 
@@ -793,14 +816,14 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	malediction 诅咒（male+dict说+ion→说坏话） 
 	malefaction 坏事，恶行（male+fact做+ion→做坏事） 
 	malodor 恶臭（mal+odor气味） 
+		odor读起来像吸气.
 	maltreat 虐待（mal+treat对待） 
 	malapropism 字的误用（mala＋prop恰当+ism→[用字]不恰
 		当；来自一喜剧中的Mrs.Malaprop,以用词错误闻名） 
 	malevolent恶意的（male+vol意志+ent→坏意志） 
 	maladroit 笨拙的（mal+adroit灵巧的） ad:去,倾向于. roit=right缩写. 做起来总对,那就是灵活啊.
 46.micro-“” mini就是小.中文迷你.
-	microscope 显微镜（micro+scope看→看小东西→显微镜）  scope=spect=see 看 这个词根可以从单词spy间谍
-		来记忆,间谍这个职业就是天天到处瞎看机密的东西.
+	microscope 显微镜（micro+scope看→看小东西→显微镜）  scope=spect=see 看 这个词根可以从单词spy间谍来记忆,间谍这个职业就是天天到处瞎看机密的东西.
 	microworld 微观世界（micro+world世界） 
 	microskirt 超短裙（micro+skirt裙子） 
 	microwave 微波（micro＋wave波） 
@@ -827,20 +850,20 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	misfortune不幸（mis+fortune幸运的） 
 	mistrust不信任（mis+trust相信） 
 	misanthrope 愤世嫉俗者（mis+anthrope人→不喜欢人） ander人=man r跟m互换
-	miscreant 恶棍（mis+creant做事的人→做坏事的人） 
+	miscreant 恶棍（mis+creant做事的人→做坏事的人） creant=creat
 	mishap 坏运气，不幸（mis+hap运气→运气不好） 
 	mischievous 恶作剧的（mis+chiev＝chief首领＋ous→做坏
 		事的首领） 
-49.mono-“” 
+49.mono-“” mono=one 还是那个原则, m无意义.直接去了.
 	monarch 君主，独裁者（mon+arch统治者→一个统治者） mon=one
 	monogamy 一夫一妻制（mono+gamy婚姻） gamy是婚姻因为gene是基因表示生的意思.婚姻就是生
 		gamete:婚姻
 	monologue 独白（mono+logue说话→一个人说话→独白） 
 	monopoly 垄断（mono+poly→独家卖→垄断） pel是碰,向前推的意思.拟声词,所以也有卖的意思.卖也是把东西
-		向前推.
-	monotonous单调的（mono+ton声音+ous→一个声音→单调
+		向前推. pel=推
+	monotonous 单调的（mono+ton声音+ous→一个声音→单调
 		的）  ton=tongue舌头
-50.Multi-”,” 
+50.Multi-”,” multi=many
 	multilingual a. 多种语言的(multi+lingual方向的) 
 	multidirectional a. 多方向的(multi+directional方向的) 
 	multiple a.多样的;多功能的(multi+pile→多的→多功能的) ple=fold
@@ -848,29 +871,29 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	multiform a.多种多样的(multi+form形式)  
 	multicultural a.多种文化的(multi+cultural文化的) 
 	multimedia a.多媒体的(multi+media媒介)  media媒体, 表示传播的意思. 从middle来.
-	multitude  a.多数;群众(multi+tude状态→多的状态→多数) tude:是名词后缀.
-51.neo-”” 
+	multitude  a.多数;群众(multi+tude状态→多的状态→多数) tude:抽象名词。 tude=tract所以是抽象名词.
+51.neo-”” new
 	neonatal a.新生的,被生的(neo+natal出生的) natal生=new=noel生
 	neogamist a.新婚者(neo+gamist结婚者) 
 	neolithic a.新石器时代的(neo+lith石头+ic) lith=rock表示石头谐音记忆砾石
 	neophilia a.喜新成癖(neo+phil爱+ia 病→爱新的病)  philia:表示病态的喜欢,病态的倾向于
-		philo是喜欢,没有起源,记忆phi非常+lo(love的前缀),所以表示非常喜欢
+		philo是喜欢,没有起源,记忆feel + love
 		phobia:fear.恐惧的意思 phob=fear
 		ia:是病的后缀. 可以看做ill缩写
 	neologism a.新词(neo+log词语+ism→新词语) 
 	neoteric a.新近的;现代的(neo+oteric表形容词→新近的) 
+		neo+term
 52.non-”,” 
 	nonexistent  a.不存在的(non+existent存在的) 
 	nonsmoking  a.不准吸烟的(non+smoking吸烟的) 
 	nonstop  a.直达的(non+stop停止→不停→直达的) 
 	nonconformist n.不遵循传统的人(non+ conform 一致
 		+ist→[和传统]不一致的人) form 形状, 形式.
-53.omni-”.”  any 多写一个m. 因为mn互换,这种重复多写一个字母的也常见
+53.omni-”.”  =any 还是之前的原则, m去掉.
 	omnipresent a.无所不在的(omni+present出现的) 
 	omnipotent a.全能的(omni+potent的能力的) poti能力 从possible来记忆. 有可能的就是有能力. s t 互
 		换,然后重复写一次s,再加i.
-	omniscient a.无所示在的(omni+scient知道的) science sci:是split缩写切割的意思. 能把一些东西区分开
-		的就是有知识的意思.
+	omniscient a.无所不知的;(omni+scient知道的) science 
 54.out- out:超过的意思.冒出来了就是超过呗.
 	outdo v.胜过,战胜(out+do做→做得超出别人) 
 	outlive v.活得比…长(out+live活→超过别人活着) 
@@ -881,7 +904,6 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		wit:vision表示看见,看见就是聪明的意思.看的多就知道的多.跟see同理
 	outbid v.出价多于(他人)(out+ bid 出价→出价超出) 
 	outlaw n.歹徒(out+law法律→超越法律之人) 
-	”.” 
 	outside ad.在外面(out+side旁边→在外边) 
 	outgoing a.友善的(out+going走→走出来→心胸宽→待人友
 		善的) 
@@ -898,10 +920,12 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	overwork n.过度劳累(over+work工作) 
 	overact v.表演过火(over+act演出) 
 	overdose n.药物过量(over+dose剂量) 
+		doze:一打 12个 表示计量
 		do:表示给 gift缩写.前2个字母. donte也是
 	overproduction n.生产过度(over+productoin生产) 
 	overcrowded a.挤满的(over+crowded拥挤的) 
 	overlap n\v.重叠(over+lap交叉→[大腿]交叉→重叠) 
+		lap=clap拍.
 	override v.推翻,不理会(over+ride骑→骑在上面→推翻[下面
 		的]) 
 	overwhelm v.压倒;泛滥(over+whelm推翻→翻过来→压倒) 
@@ -914,12 +938,12 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	overthrow 推翻（over+throw扔→扔翻了→推翻） 
 	overhaul 彻底检修（over+haul拉→拉过去检修） haul:pull拉. 都往上拉,就是彻底检修.
 		因为修理时候都需要把盖子都拉上去.
-56.paleo :”,” 
+56.paleo :”,” pale=tele远
 	paleozoology n. 古动物学(paleo+zoology动物学) pale=far表示古代,时间久远的.
 	Paleotechnic a. 古代技术的(paleo+technic技术的) 
-	Paleontology n. 古生物学(paleo+notology存在学→古代存
-		在学→古生物学;参考:ontology本体论) onto=存在的意思. onto=one 多写一个t
-57.pan-“” =all
+	Paleontology n. 古生物学
+		onto是存在的意思.
+57.pan-“” =all    pan=palm手,全的.
 	pan-American 泛美的 
 	pandemic 大范围流行的（pan+dem人民＋in→人民广泛〔染
 		病〕→广为流行的） 
@@ -930,9 +954,8 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		〔国王〕) pane:全 gyr:gre=gather 颂词.颂词就是大家一起聚集然后听的东西
 	pansophic 全知的（pan+soph智慧→ic→智慧广→都知道） sophic:聪明的. philosopher philo:喜欢
 		sopher:聪明.
-58.para- 非,对抗,一半. 从against和pair来. par旁边.
-
-	parastatal 半官方的（para+sttal国家的） state:国家
+58.para- 非,对抗,一半,旁边. 从against和pair来. par旁边.
+	parastatal 半官方的（para+statal国家的） state:国家
 	parapolitical 半政治的（para+political政治的） 
 	paradigm 范例，示范（para+digm显示→在旁边显示给〔别
 		人〕→示范） 
@@ -941,13 +964,13 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	paragon 典范（para+gon角→旁边顶尖人物→典范） ag是尖从acid酸来记忆
 	paralogism不合逻辑的推论（para+logism逻辑→在逻辑边上
 		→不是逻辑） para是否定的意思.
-	parachute 降落伞（para+chute降下） 
+	parachute 降落伞（para+chute降下） 一起降落的东西就是降落伞
 	paradrop 空投，空降（para+drop扔下） 
 59.pen-“” 等于几乎的意思nearly,almost. pending即将发生的.也就是快要到了的意思.
 	peninsula 半岛（pen+insula岛→似岛一样→半岛） 
 	penultimate 倒数第二的（pen+ultimate最终→靠近最终一个
 	→倒数第二）  
-60.per- 全部,穿过的意思,和否定.
+60.per- 肯定和否定
 	1.向前: forward来,从而表示穿过 2.从fer carry来表示带着
 	perspective 透视的（per+spect看＋ive→看透了→透视的） 
 	perennial 全年的（per+ennial年→全年的）  穿过一年的,也就是全年
@@ -955,13 +978,13 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	permanent 永久的（per+man拿住＋ent→永久拿住→永恒的） 
 	persist 坚持（per+sist站→站到最后→坚持） 
 	persuade 劝说（per+suade劝→一直劝→劝说） suade=sweet 一直糖就是一直好言相劝
-	percussion 敲打（per+cuss震＋ion→震动→敲打） cus=cut切.一直切就是一直打的意思 切和打一样.
+	percussion 敲打（per+cuss震＋ion→震动→敲打）cuss=cursh
 	perspicacious 独具慧眼的（per+spic看＋acious→全部看到
 		→独具慧眼） 
 	pernicious 有害的，有毒的（per+nic毒+ious→有毒的） nox是毒 像hurt
 	perplexed 困惑的（per+plex重叠+ed→全部重叠在一起→困
 		惑了） 
-	perforate 打洞（per+forate打孔→打孔穿过→打洞） fora=hole 穿透
+	perforate 打洞（per+forate打孔→打孔穿过→打洞） fora=hole 穿透不好记!!!!!!!!!!
 	permeate 渗透（per+me走+ate→走过去→渗透过去） me=move缩写
 	perfidy 不忠，背叛（per+fid相信＋y→假相信→不忠诚） 通过相信来欺骗. fid=faith缩写.
 	perjury 伪证，假誓（per+jur发誓＋y→假发誓；参考：jury
@@ -970,7 +993,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		率的） func就是做. per 表示通过.所以就是随便做一下样子的.例行公事的. fun=enjoy=做
 	perpetrate 做坏事；犯罪（per+petr=patr父亲＋ate→以父
 		亲式态度对待别人→专横，做坏事） 
-	pervert 堕落，滥用（per+vert转→转向坏→堕落） 
+	pervert 性变态者（per+vert转→转向坏→堕落） 
 61.peri-“”  per是全, peri就是一圈
 	perigon 周角，360度角（peri+gon角） 
 	perimeter 周边（peri+meter测量→测量一圈→周边） 
@@ -986,7 +1009,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	postgraduate 大学毕业后的（post+graduate毕业） 
 	postface 刊后语（post+face脸；前面→后面的脸→刊后语） 
 	posterior 较后的（post＋erity表名词→后面的人→子孙） 
-	postage 邮资（post+age钱；状态） post从position来,表示放置,所以就是邮局的意思.age是名词后缀.邮费
+	postage 邮资 -age后缀
 	postoffice 邮局（post+office办公室） 
 	postcard 明信片（post+card卡片） 
 	postal 邮政的（post+al） 
@@ -999,6 +1022,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	prepay 预付(pre+pay付钱) 
 	prebuilt 预制的(pre+built建造) 
 	preamble 前言,绪言(pre+amble跑→跑在前面→前言) 
+		amble:安步: 走
 	precaution 预防措施(pre+caution小心→预先小心→预防) 
 	precede (在时间上)先于,早于(pre+cede走→走在前面→[时
 		间上]先于) ced=foot
@@ -1042,7 +1066,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		面→检举;指控) secu表示追随. 从second单词来.
 	prospect 景象,前景(pro+spect看→向前看→前景) spec=spy=看
 	provident 顾及未来的,有远见的(pro+vid看+ent→向前看的
-	→有远见的) vid=vision
+	→有远见的) vid=vision  dst互化
 	provoke 激怒,刺激(pro+voke喊→在[你]前面喊→激怒[你]) 
 		voke=voice表示说话
 	procrastinate 拖延(pro+crastin明天+ate→有许多明天明日
@@ -1054,13 +1078,14 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		繁殖) 
 	profit 利润,收益(pro+fit做→做很多→做得好→利润) 
 	profuse 大量的,丰富的(pro+fuse流→流很多→大量的) 
-	prolific 多产的,多育的(pro+lif带来+ic→带来东西→多产的)  fic做
+	prolific 多产的,多育的(pro+lif带来+ic→带来东西→多产的)  live
 	prosperous 兴旺的,繁荣的(pro+sper希望+ous→希望很多
-		→兴旺的) spur迸发.长矛就是这个.向外射就是兴旺呗.
+		→兴旺的) spur迸发 拟声词
 	③ 表示“赞同，亲…” 
 	pro-American 亲美的 
 	proslavery 赞成奴隶制的(pro+slavery奴隶制) 
-	proabortionist 赞成堕胎者的(pro+abortion堕胎+ist) 
+	proabortionist 赞成堕胎者的(pro+abortion堕胎+ist)
+		abortion=ab+born 
 67.pseudo-“” 没什么origin. 可以从false来记忆.等于前后缩写就是pse后面加udo
 	pseudo 假的,虚伪的 
 	pseudonym 假名,笔名(pseudo+nym名字) 
@@ -1070,7 +1095,6 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	pseudology 谎话(pseudo+ology说话→学科说假话) logy=lect收集. 说话其实就是在大脑词语表里面收集一些
 		说出来.
 68.re- return所以表示回来.
-“” 
 	reflect 回想;反射(re+flect弯曲→反弯曲→反射) 
 	retreat 后退,撤退(re+treat拉→拉回来→撤退) 
 	retract 缩回;收回(re+tract拉→拉回,缩回) 
@@ -1083,9 +1107,10 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	renegade 叛徒.
 		re+neg=not gt互换.因为g跟k,k跟t都可以互换.所以表示反叛.
 		对自己的宗教说not了就是反叛了.
-	repel驱除，击退（re+pel推→击退） 
-	repose 休息；躺下（re+plse放→入下〔工作〕→休息） pose=pause暂停就是躺下
-	reprobate 道德败坏之人（re+prob正直＋ate→不正直→败坏） prove:证明...是对的.
+	repel驱除，击退（re+pel推→击退） pel拟声词推
+	repose 休息；躺下（re+plse放→入下〔工作〕→休息） 
+		re加强+pose=pause暂停就是躺下
+	reprobate 道德败坏之人（re+prob正直＋ate→不正直→败坏） prove:证明...是对的. probe探针
 		re prove所以就是不用去证明的.就是坏人.
 	repugnant 令人厌恶的（re+pugn打＋ant→[把人]打回去→
 		〔行为〕令人厌恶的） punk=fight=打 让人想把它打回去.所以就是令人厌恶的.
@@ -1102,7 +1127,8 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		荒地） 
 	recommend	赞扬；推荐（re+commend赞扬→一再赞扬） 
 	recompense	报酬；赔偿（re+compense补偿） 
-	refurbish	刷新；擦亮（re+furbish装饰→再装饰→刷新） burn=bright亮
+	refurbish	刷新；擦亮（re+furbish装饰→再装饰→刷新） 
+		furn=bright亮
 	regenerate	改过自新的（re+gener产生＋ate→重新产生生命
 		→改过自新的）  gaya=gene生
 	reincarnate	化生，转生(re+in入＋carn肉＋ate→重新进入肉
@@ -1112,9 +1138,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	reiterate	重申（re+iterate重说→反复重说） iter=turn 表示重复.i 不表示含义.
 	resurgence	复兴，再起（re+surg浪浪潮＋ence→重起浪潮→
 		复兴） surge迸发. sub+reg. 从下面一直向上.
-	reverberate	起回声，反响（re+verber震动＋ate→重新震动
-		→起回声） ver:turn uv互换来回
-69.retro-“”  re+intro	向回带领
+	reverberate	起回声，反响
+		震动弹回来的就是回声.
+69.retro-“”  retro=return 词根生成方式:辅音元音互换
 	retrograd	后退，倒退（retro+grade走→向后走） gress=走 grade	一步一步
 	retrogress	倒退，退化（retro+gress走→向后走） 
 	retrospect	回顾，回想（retro+spect看→向后看） 
@@ -1128,26 +1154,25 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	secrete	分泌；藏匿（se+crete分辨→分辨开→分泌；藏起来；） crete.产生出来分开.就是分泌出.
 	sedition	煽动叛乱（sed=se+it走＋ion→分开走→煽动叛乱） it=go的改写. g=t i=o
 	seduce	勾引，诱惑（se+duce引→引开→勾引别人） 
+		duce:引导
 	segregate	隔离（se+greg群＋ate→和人群分开→隔离） gre=gather
 	sever切断；脱离（se+ver分开→分离开→切断） 
 	select选出（se+lect选→选出分开） lec选=collect
 71.sub-  under缩写.作为动词就是向下的意思.
- “” 
-	subdue	征服；克制.
+	subdue	征服；克制. due=duce向下推
 	subjugate	镇压；征服 judge:法官just:是权利的意思.因为just就是right的意思,表示正确.
 		向下使用权利就是镇压,征服.
 	subliminal	潜意识的（sub+limin门槛＋al→在门槛下→在意识
 	之下→潜意识的） 
 	submerge	沉没，淹没(sub+merge淹没→淹没下去) 
-	submissive	恭顺的（sub+miss给→ive→在下面给→恭顺的） 向下发送.这个含义是把自己往下发送所以是
-		顺从的意思
+	submissive	恭顺的（sub+miss这个含义是把自己往下发送所以是顺从的意思
 	subordinate附属的（sub+ordin顺序＋ate→顺序在下→附属
 		的） 
 	suborn	收买，贿赂（sub+orn装饰→在下面装饰→贿赂） order sub 往下安排,所以就是暗地的操作.就是
 		收买.
-	subscribe	捐献，订购（sub+scribe	写→在下面写上名字→订
+	subscribe	订购（sub+scribe	写→在下面写上名字→订
 		购） scribe=s+cut书写以前就是切的概念.
-	subside		下陷；平息（sub+terr地＋anean→地下的） sid=sit所以下沉
+	subside		下陷；平息 sid=sit所以下沉
 	subterranean	地下的（sub+terr转→转下去→推翻） 
 	subcontinent	次大陆（sub+continetn大陆） 
 	subtropics	亚热带（sub+tropics热带） tropic是return的意思.表示南北回归线.因为以前人们不超过
@@ -1156,12 +1181,12 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	subeditor	助理编辑（sub+editor编辑） 
 	suboffice	分办事处（sub+office办公室） 
 	subcentral	接近中心的（sub+central中心的） 
-	subaratic	近北极的（sub+arctic北极的） 
+	subarctic	近北极的（sub+arctic北极的） 
+		arc角度.arctic北极.
 	subadult	接近成年的（sub+adult成年人） 
 	subacid	略酸的（sub+acid酸） 
 	subarid	有点干燥的（sub+arid干燥的） arid有点像dry重拍列.
 72. suc-, suf-, sup-, sur-“…
-	” 
 	succeed 成功（suc+ceed走→从下走到上面→成功） 
 	succinct	简洁的，简明的（suc+cinct捆→在下面先捆好→简洁
 		的） cinc=circle .捆绑的意思.
@@ -1213,9 +1238,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	supervise	临视（super+vise看→在上面看→临视） 
 	superstructure	上层建筑（super+structure结构） 
 	superimpose	放…上面，强加（super+impose放上去→在上
-	面放→强加） 
-	superficial	肤浅的（super+fic做＋ial→在表面上做） 
-	superintend	监督（super+intend关心→在上面关心→监督） 
+	面放→强加） pose=put
+	superficial	肤浅的 super+face 
+	superintend	监督 super+intend计划 
 	supersede	淘汰；取代（super+sede坐→坐上去→淘汰〔以前
 		的东西〕） 
 	superstition	迷信（super+stit站+ion→站在人〔理智〕之上
@@ -1245,9 +1270,10 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		的） 时间之神柯罗诺斯
 	synonym	同义词（syn+onym名字→名字相同→同义词） 
 	synthesis	合成（syn+thesis放→放在一起→合成） thes=set
-	synopsis	摘要，概要（syn+ops选择+is→共同选出→摘要） opsis看见=observe 汇总看到的就是摘要.
-	syndrome	综合症状（syn+drome跑→跑到一起→综合症） drome=run 等于前面多一个d. 
+	synopsis	摘要，概要 opsis看见=observe 汇总看到的就是摘要.
+	syndrome	综合症状（syn+drome跑→跑到一起→综合症） drome=drive 等于前面多一个d. 
 	anadromous: 反向走的.所以就是溯河的
+		ana+drive
 77.trans- 穿过 through缩写.
 	transcontinetal	横贯大陆的（trans+continental大陆的） 
 	transnormal	超出常规的（trans+noraml正常的） 
@@ -1260,16 +1286,14 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		sec=cut
 	tranplant	移植（trans+plant种→转移过去→移植） 
 	transaction	交易；办理（trans+action行动→交换行动→交易） 
-	transcribe	抄写，转录（trans+scribe写→把写的东西移到〔另
-		一张纸上〕→抄写） 
+	transcribe	抄写，转录（trans+scribe写→把写的东西移到〔另一张纸上〕→抄写） 
 	transfigure	改观；变形（trans+figure形状→改变形状） 
 	transfuse	输血；充满（trans+fuse流→〔血〕流过去→输血） 
-	transitory	短暂的（trans+it走＋ory→走过就变→输血） it表示走.用谐音法来记忆 移动,的拼音缩写跟it很	
-		像,t=动
+	transitory	短暂的（trans+it走＋ory→走过就变→输血）
+		it=go
 	transmogrify	变得古怪，变形（trans+mogr怪形状＋ify→变
 		成怪形状） trans+modify tdkg互换
-78.ultra- all+tran表示超过.
- “” 
+78.ultra- all+tran表示超过.!!!!!
 	ultrapure	极纯的（ultra＋pure纯的） 
 	ultramilitant	极端好战的（ultra+militant好斗的） 
 	ultraclean	极洁净的（ultra+clean干净的） 
@@ -1294,7 +1318,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	unconditional	无条件的(un+conditional有条件的) 
 	unlimitted	无限的（un+limited有限的） 
 	unambitious	无野心的（un+ambitious有雄心的） 
-	unconscionable	不合理的 con+sci聪明
+	unconscionable	不合理的 con+sci科学
 	unfailing	无尽的，无穷的（un+failing有尽头；失败的→没有
 		尽头的） 
 	unofficial	非官方的（un+official官方的） 
@@ -1314,6 +1338,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
     unearth	从地下挖出（un+earth土地）
     unbosom	吐露）（un+bosom胸→打开心胸→吐露）bosom扩张的概念所以是胸部.
     unravel	解开；拆散（un+ravel纠缠）ravel乱握
+		raven渡鸦
+		rave怒吼  rave大嘴的意思.
+		ravel 纠缠  乱+vol胡乱的绕圈,就是缠绕.
 80.under-
 	underground	地下的（under+ground地） 
 	underwrite	承担保险责任
@@ -1323,41 +1350,41 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	undermine	破坏，损坏（under+mine挖→挖墙角） mine挖,没有原因.从 mineral 单词记忆矿物
 		就是挖出来的.或者记忆矿脉,所以mine就是挖
 	underling	下属（under+ling小人物→下属） 
+		ling=little+ ing=thing
 	underclothing	内衣裤（under+clothing衣服） 
 	underwear	内衣（under+wear穿衣服） 
 	underestimate	估计不足（under+estimate估计） 
 	underplay	对…轻描淡写（under+play玩→没玩够→说得不够
-		的） play是演出的意思,也就是表现的意思.表现的少,就是轻描淡写
+		的） play是演出的意思, 演的很敷衍,所以轻描淡写
 	underpopulated	人口稀少的（under+populated有人住的） 
 	underdeveloped	不发达的（under+developed发展→发展不
 		够） 
 	undersized	不够大的（under+sized大的→不够大的） 
-		 “” 
 	underagent	副代理人（under+agent代理人） 
+		ag+ent ag=去做.
 	underofficer	下级官员（under+officer官员） 
-		     
 1. cata-“” 向下的意思, cut
 	cataclysm	洪水；大灾难（cata离开＋clysm洪水，冲→被洪
 		水冲掉→大灾难） clysm=clean 向下大冲洗就是大洪水.
 	catalog	目录（cata向下＋log说→在下面要说的话→目录） 
 	catastrophe	灾难，大祸（cata+strophe转→转下去→灾难临
-		头） 
+		头） s+turn
 	cataract	大瀑布（cata+ract冲→向下冲→瀑布） 
+		ract=break 所以是冲
 2. deca-“” dec=cet=ten
 	decagon	十角形（deca+gon角） 
 	decameter	十米（deca+meter米） 
-3. deci-“” 
+3. deci-“” 十分之一  i=little
 	decimeter	十分之一米（deci+meter米） 
 	decigram	十分之一克（deci+gram克） 
-	decimate	大量毁灭（decim=deci+ate→杀十分之一，大批杀
-		死） mate:名词结尾. deci十分之一.
-4. demi-“” 
+	decimate	大量毁灭（decim=deci+ate→杀十分之一，大批杀死） mate:名词结尾. deci十分之一.
+4. demi-“” demi=dis
 	demigod	半神半人（demi+god神） 
 	demilune	半月（demi+lune月亮）  luna:light缩写月亮也是亮的.
 	demirep	名声不好的女人（demi+rep=reputation名声→名声
 		一半不好） 
 	demi-fixed半固定的 
-5. endo-“” 
+5. endo-“” en=in do无意义
 	endogenous	内生的，自生的（endo+gen产生+ous→内部产
 		生的） 
 	endocardial	心脏内的（endo+card心＋ial） card=heart
@@ -1367,7 +1394,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 7. hemi-“”    hemi=semi=seprate
 	hemisphere	半球（hemi+sphere球） 
 	hemicycle	半圆形（hemi+cycle圆，循环）  
-8. hepta-“” hepta=seven
+8. hepta-“” hepta=seven  h=s 都是弯曲的写法.
 	heptagon	七角形（hepta+gon角） 
 	heptaglot	使用七种语言的（hepta+glot语言，舌头） 
 9. hexa-“” hex=six 这里面h和s互换.
@@ -1395,14 +1422,15 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	metaphysis	形而上学（meta+physics物质；物理→物质之上
 		的学科→形而上学） 
 	metapsy	超心理学，灵学（meta+psych心灵＋ology学科） 
-15. milli-“” 
+		psy=spirit的前缀.
+15. milli-“” 千
 	millennial	一千年的（mill+enn年＋ial） 
 	millimeter	毫米（milli+meter→千分之一米） 
 16. ob-“”  against前2个字母缩写, 也表示加强=over
 	oblique	倾斜的（ob+lique歪斜→歪斜的） liq=limb 表示弯曲,爬就是弯曲.bend
 	oblivion	忘却，忘记（ob+liv活＋ion→[记忆]不活了→忘记） 不再仙火就是忘记了.
-	obscure	模糊的（obs=ob+cure关心→不关心→记不住了→模
-		糊的） scure:cover来的.同样s也是无意义字符而已.ob表示over表示加强.
+	obscure	模糊的
+		scure:cover来的.同样s也是无意义字符而已.ob表示over表示加强.
 
 	obsolete	过时的（ob离开＋sol太阳＋ete→离开太阳了→放在
 		角落不用了） sole就是角色就是使用的意思. 离开了角色也就是过时了的意思.
@@ -1421,7 +1449,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	quadrangle	四角形（quadr+angle角） 
 	quadricycle	四轮车（quadri+cycle轮子） 
 	quadrilateral	四边的（quadri+lateral边）  
-20. quasi-“” 
+20. quasi-“” quasi=as 像
 	quasi-official半官方的 
 	quasi-judicial准司法性的 
 21. semi-“” semi=demi=half  semi=separate middle中间劈开就是一半的意思.
@@ -1433,7 +1461,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 22. sept,septi-“” 
 	septangle	七角形（sept+angle角） 
 	septiateral	七边的（septi+lateral边） 
-	september	九月 
+	september	九月  因为罗马三月是第一个月
 23. sex-“”  
 	sexangle	六角形（sex+angle角） 
 	sexfoil	六叶形（sex+foil树叶→六叶；） foil叶片
@@ -1444,7 +1472,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 25. stereo-“” stereo=stand立体的
 	stereosonic	立体声的（stereo+sonic声音的） 
 	sterograph	立体照片（stereo+graph写，照片；） 
-	stereoram	立体图（stereo+gram写，图→立体图） 
+	stereogram	立体图（stereo+gram写，图→立体图） 
 26. supra-“….” 
 	Supra	-class超阶级的 
 	Supranatonal	超国家的 
@@ -1483,7 +1511,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	acuity	尖锐，敏锐（acu+ity性质→尖的性质→尖锐） 
 	acumen	敏锐，聪明（acu+men表示名词→尖→敏锐） 
 	acupuncture	针炙（acu尖＋punct点＋ure→用尖〔针〕点→
-		针炙） punct=point
+		针炙） punct=point 点,刺
 	acme	顶点，顶峰（acumen的变体） 
 2. act=to do , to drive,“” 
 	act	 行为 
@@ -1552,7 +1580,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 		好的） 
 	amity	友好，和睦（am+ity状态→爱的状态→和睦） 
 	enmity	敌意，仇恨 in 否定+ em爱这里面e省略了.
-8. ambul=walk,“”  amble=ambi(around) mr互换  + li 走=go   (tlg互换正常发音很像)
+8. ambul=walk,“”  amble=ambi(around) 安步
 	ambulance	 救护车，流动医院（ambul+ance→走的东西→救
 		护车） 
 	ambulant	走动的，流动的（ambul+ant） 
@@ -1598,7 +1626,8 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 13. aqu=water,“” 
 	aquatic	水的；水中的（aqu水＋atic） 
 	subaquesous	水下的（aqu+ose多…的→多水的） 
-	opaque	不透明的（op不＋aque水→不像水一样→不透明的） op=ob=over, against
+	opaque	不透明的（op不＋aque水→不像水一样→不透明的） 
+		op=ob 加强或者否定. 
 14. arch, archy=ruler, rule, chief, “ arch穹顶就是圆弧.表示权利.
 	anarchy	无政府状态（an无＋archy） 
 	anarchic	无政府主义的（anarchy+ic） 
@@ -1617,9 +1646,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	artisan	工匠，技工（artu+san人→技巧之人→工匠） 
 	artifact	工艺品（arti+fact做出的东西，事实→人造物→工艺品）  
 16. astro,aster=star,“”  
-	a+star+nomy学科. nomy=number表示衡量分配所以就表示学科的含义,
-	科学就是定量分配的问题.
 	astrononmy	天文学（astro+nomy学科→研究星星的学科） 
+		a+star+nomy学科. nomy=number表示衡量分配所以就表示学科的含义,
+		科学就是定量分配的问题.
 	astrospace	宇宙空间（astro+space空间） 
 	astronaut	宇航员（astro+naut航行员） naut=navi 表示船,航行员
 	astrophysics	天体物理学（astro+physics物理学） 
@@ -1633,6 +1662,9 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	audible	听得见的；可听的（audi+ible能…的） 
 	inaudible	听不见的（in不＋audi+ible） 
 18. av,avar, avi=desire,bird,“”  av=eager缩写 v=g
+		以前的鹰是鸟里面最强的,所以表示鸟.
+		鸟代表吉祥.所以大家希望鸟.鸟表示希望.
+		和平鸽.
 	avid	渴望的，贪婪的（av+id…的→渴望的） 
 	avidity	贪婪（avid+ity状态） 
 	aviary	鸟笼，鸟舍（avi+ary表示地方→鸟的地方→鸟舍） avi=awi=egg 表示鸟 g跟v的发音很
@@ -1678,7 +1710,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	brevity	短暂；简洁（brev+ity状态→短的状态→短暂，简短） 
 	brief	简短的 
 	briefness	短暂；简洁 
-24. cad, cas, cid=fall“” 
+24. cad, cas, cid=fall“” cut
 	casual	偶然的（cas+ual→落下的→不是安排好的→偶然的） 
 	casualty	事故；灾难（casual+ty→[突然]落下的事→事故） 
 	occasion	发生；时机（oc使＋cas落下+ion→使…落下→事情
@@ -1736,7 +1768,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	conceit	自豪；自大 
 	anticipate	预料；预期的（anti前＋cip抓＋ent→开始抓→开始
 		的） 
-	incipient	开始的；初期的（in+cipi抓＋ent→开始抓→开始的） 
+	incipient	开始的；初期的（in+cipi抓＋ent→开始抓→开始的）cip是头,所以in头就是开始的意思.
 	emancipate	解放（e出＋man手＋cip+ate提前抓住→预料） 用手向外抓就是解放.释放
 	emancipation	解放 
 	municipal	市政的; 地方政府的; many+头.就是市政府.
@@ -1806,8 +1838,8 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	successive	连续的 
 	recess	休息；隐居（re回＋cess→走回去→休息） 
 	recession	撤退；交还（recess+ion→走回去→撤退） 
-cept=take拿取    cep=cap=拿
 	except	. （ex外.cept拿）除…之外.把除外 
+		cept=take拿取    cep=cap=拿
 	exception	   
 	exceptional	   
 	exceptive	   
@@ -1839,7 +1871,7 @@ cept=take拿取    cep=cap=拿
 35. cern, cert, cret=sure, separate,“” 确定,区分. 区分开就是确定下.
 	concern	 关系到 
 	discern	辨别；区分（dis分开＋cern→分开搞清→区别） 
-	discernmible	能够分辨的 
+	discernmible	能够分辨的
 	discernment	辨别能力 
 	certain	肯定的（cert+ain→搞清楚的→肯定的） 
 	ascertain	确定，发现 
@@ -1905,8 +1937,7 @@ cept=take拿取    cep=cap=拿
 	clamorous	吵闹的 
 	acclaim	欢呼；喝采（ac一再＋claim→一再喊→欢呼） 
 	acclamation	喝采，称赞 
-	declaim	  de是加强,所以是做演讲.(尤指在公众前)慷慨激昂地宣讲
-		在大众面前讲话就是宣讲.
+	declaim	  de是加强,所以是做演讲.(尤指在公众前)慷慨激昂地宣讲在大众面前讲话就是宣讲.
 	declamation	慷慨演说；雄辩 
 	exclaim	叫喊；大声说 
 	exclamation	叫喊；感叹 
@@ -1919,9 +1950,10 @@ cept=take拿取    cep=cap=拿
 	clarify	澄清，弄清 
 	clarity	清楚 
 	clarification	澄清；纯化 
-	edclare	宣称；断言 
+	declare	宣称；断言 
 	declaration	定言；陈述（declare+ation） 
-	clairvoyance	透视；洞察力 
+	clairvoyance	透视；洞察力  voy=vision
+		看的清晰
 	clairaudient	有超人听力的（clair+audi听+ent→听力清楚） 
 42. clin, cliv=lean,slope,“” 
 	decline	倾斜；衰退 
@@ -1957,8 +1989,7 @@ cept=take拿取    cep=cap=拿
 	occlusion	 n 堵塞（oc+clus+ion) 
 44.corp,corpor=body,“”"   corp等于身体,躯体. 只能从corpse单词反过来记忆词根.
 	谐音靠谱,身体一定要靠谱.
-	corps	 n 军队，团体（corp+s复数） 军队就是一个躯体去打仗.表示一个团体.有一个统一的领
-		导
+	corps	 n 军队，团体（corp+s复数） 军队就是一个躯体去打仗.表示一个团体.有一个统一的领导
 	corpse	 n 尸体（corpse[=corp身体]→尸体） 
 	corporation	 n 公司，团体（corpor+ation表名词） 
 	corporate	 a 共同的；团体的（corpor+ate) 
@@ -2013,7 +2044,7 @@ cept=take拿取    cep=cap=拿
 	creative	 a 有创造性的（create+ive ) 
 	creature	 n 生物；创造物（create+ure→创造物，生物） 
 	recreate	 v 休养；再造（re再+create→再创造→休养[再
-		创能量]）  15 
+		创能量]）  
 	recreation	 n 娱乐，消遣（recreate+ion) 
 	decrease	 v 减少（de向下+crease增长→向下增加→减少） 
 	decrement	 n 减少（decrease的名词） 
@@ -2057,7 +2088,7 @@ cept=take拿取    cep=cap=拿
 	encrypt	 v 加密（en进入+crypt) 
 "50.cub,cumb=lie down,“”cumber=barrier, cub躺下  像bed的改写. ub=be
 	cubicle	 n 小卧室（cup+icle小东西） 
-	incubate	 v 孵卵，伏巢（in进入+cud+ate→躺在里面→孵
+	incubate	 v 孵卵，伏巢（in进入+cub+ate→躺在里面→孵
 		卵） 
 	incubation	 n 孵 卵；潜伏期（incubate+ion)  
 	incubator	 n 孵卵器；早产儿育儿箱 
@@ -2079,12 +2110,11 @@ cept=take拿取    cep=cap=拿
 	encumbrance	 n 障碍物；妨碍（encumber+ance) 
 	cumbersome	 a 笨重的；碍手脚的（cumber+some有点…
 		的→有障碍的） some表示有些...表示形容词.
-51cult=till,“”"   培养就是一圈一圈的.cul=培养.
+51 cult= 培养就是一圈一圈的.cul=培养.
 	cultivate	 v 耕作；培养（cult+ivate表动词） 
 	cultivation	 n 栽培；培养（cultivate+ion) 
 	culture	 n 文化（cult→[对心灵的]培养→人类文化） 
-	cult	 n 崇拜；教派（cult→[对精神的]培养→崇拜，引申为教
-		派） 
+	cult	 n 崇拜；教派（cult→[对精神的]培养→崇拜，引申为教派） 
 	incult	 v （土地）未耕的（in 无→cult耕种→无耕种的） 
 	occult	 a 奥秘的，神秘的（oc+cult教派→在教派内不让
 		别人知道→奥秘的） o+double表示强调. cult表示培养,以前学的就是宗教所以cult也是宗教
