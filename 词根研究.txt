@@ -40,7 +40,7 @@ cess, ced, ceed 表示走. 拉丁里面表示走,离开 记忆可以看kid省略
 		ancestor ,祖先 ant之前的. ces走 ant从front来.后缀
 		concede, 一起走.让步
 		recede, 退去
-cs  互换  老外也傻,两个弧度的跟一个弧度的也分不清.
+cs  互换  老外傻,两个弧度的跟一个弧度的也分不清.
 uvw互换
 mnlr互换
 bpmfv互换
@@ -4109,7 +4109,7 @@ matr(i);   mater;    metro =mother 还是缩写原则.前后缩写.
 	annotation	 n 注解（annotate+ion) 
 	denote	 v 指示；表示(de加强+note→加强注意→指示） 
 	denotation	 n 指示；意义（denote+ation) 
-169.nounce,nunci= speak,“”"   nouce=notice通知,说话.
+169.nounce,nunci= speak,“”"   nouce=notice通知,说话.noun=make know让别人知道就是说.
 	announce	 v 宣布，发表（an+nounce→一再讲→宣布） 
 	announcement	 n 通告（announce+ment) 
 	denounce	 v 评击，指责（de坏+nounce→讲坏话→评
@@ -8230,3 +8230,20 @@ ana	: against again on
 	anachronism	:时代错误
 bar	:障碍,限制=====从拉丁语来的估计是拟声词.像树枝断裂声音.
 bat	:打. 从beat来
+
+
+
+	
+英语词根:
+	pre: before来的. bf互化.然后取前取后即可.
+	pro: 专业的. professor来的
+	post: 后. postman邮政就是时间往后面的东西.
+	
+	
+
+
+
+
+
+
+
